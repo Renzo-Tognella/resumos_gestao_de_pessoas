@@ -2,22 +2,25 @@
 
 ## 1. Contextualização
 
-Aula 6 do Prof. Ney Nakazato Miyahira (UTFPR), disciplina de Gestão de Pessoas — Turma Especial (quintas, 18h40–21h10, Campus Ecoville). O tema é **Desenvolvimento** — a diferença entre Treinamento e Desenvolvimento, autoconhecimento via MBTI, Diagnóstico de Desenvolvimento e a diferença entre avaliação quantitativa (por metas) e qualitativa (por competências).
+Aula 6 do Prof. Ney Nakazato Miyahira (UTFPR), disciplina de Gestão de Pessoas — Turma Especial. O tema é **Desenvolvimento**: a diferença entre Treinamento e Desenvolvimento, autoconhecimento via MBTI, Diagnóstico de Desenvolvimento e o modelo de Agenda de Desenvolvimento Pessoal.
+
+**Grupo do Renzo (Grupo 2)**: Marinho · Leandro Castro · Isabela · Clara Janke · Ana Flávia · Renzo Tognella. Tema de seminário: *Carreira e novos modelos de trajetória*.
 
 ---
 
 ## 2. Treinamento vs. Desenvolvimento
 
+A diferença entre os dois conceitos é fundamental para o planejamento de investimentos em RH.
+
 | | Treinamento | Desenvolvimento |
 |:---|:---|:---|
-| **Duração** | Curta prazo | Longo prazo |
-| **Foco** | Preparar o colaborador para executar atividades com excelência na empresa | Práticas educacionais para melhorar o desempenho pessoal do colaborador |
-| **Objetivo** | Ejecutar tarefas específicas | Desenvolver potencial e competências |
-| **Lógica** |gap填充 — resolver lacuna de competência imediata |Growth — construir capacidades futuras |
+| **Prazo** | Curto prazo | Longo prazo |
+| **Foco** | Preparar o colaborador para executar tarefas específicas com excelência | Práticas educacionais para melhorar o desempenho pessoal e profissional |
+| **Objetivo** | Resolver uma lacuna de competência imediata | Construir capacidades futuras |
+| **Analogia** | Preencher a lacuna atual | Crescer para o próximo nível |
+| **Avaliação** | Antes e depois da capacitação | Resultados ao longo do tempo |
 
-gap填充缝隙填充 — fonte: Twygo EAD.缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
-
-A distinção é fundamental para o orçamento de RH: Treinamento resolve problemas conhecidos e imediatos; Desenvolvimento prepara a organização para desafios futuros.
+Treinamento é uma solução para problemas conhecidos e imediatos. Desenvolvimento prepara a organização — e o profissional — para os desafios que ainda não apareceram. A maioria das empresas brasileiras investe mais em treinamento do que em desenvolvimento estratégico, o que gera curto-prazoísmo no capital humano.
 
 ---
 
@@ -25,85 +28,84 @@ A distinção é fundamental para o orçamento de RH: Treinamento resolve proble
 
 ### 3.1 O que é o MBTI
 
-O **Myers-Briggs Type Indicator (MBTI)** é um instrumento criado por **Katharine Cook Briggs** e **Isabel Briggs Myers**, baseado na teoria dos tipos psicológicos de **Carl Jung** (publicada em 1921, *Psychologische Typen*, Alemanha).缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙间隙
+O **Myers-Briggs Type Indicator (MBTI)** é um instrumento criado por **Katharine Cook Briggs** e **Isabel Briggs Myers** (mãe e filha, respectivamente), baseado na teoria dos tipos psicológicos de **Carl Jung** (*Tipos Psicológicos*, 1921).
 
-O MBTI identifica **16 tipos psicológicos** a partir de 4 dimensões:
+O MBTI identifica **16 tipos psicológicos** a partir de 4 dimensões bipolares:
 
-| Dimensão | Polar 1 | Polar 2 |
+| Dimensão | Polo 1 | Polo 2 |
 |:---|:---|:---|
-| **Direção da energia** | Extraversão (E) | Introversão (I) |
-| **Percepção do mundo** | Sensorial (S) | Intuição (N) |
-| **Decisões** | Pensamento (T) | Sentimento (F) |
-| **Estilo de vida** | Julgamento (J) | Percepção (P) |
+| **Fonte de energia** | Extroversão (E) — foco no mundo externo | Introversão (I) — foco no mundo interno |
+| **Percepção do mundo** | Sensorial (S) — fatos concretos | Intuição (N) — possibilidades e padrões |
+| **Modo de decisões** | Pensamento (T) — lógica e objetividade | Sentimento (F) — valores e impacto nas pessoas |
+| **Estilo de vida** | Julgamento (J) — estrutura e organização | Percepção (P) — flexibilidade e espontaneidade |
 
-缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙间隙
+O teste está disponível gratuitamente no site **16personalities.com** para atividade prática proposta na aula.
 
-**Crítica acadêmica importante**: O MBTI tem limitações metodológicas significativas. Estudos empíricos (esser缝隙oll缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝
+### 3.2 Crítica Acadêmica
 
-O MBTI é útil para **autoconhecimento e discussão em grupo**, mas não deve ser usado como ferramenta de seleção ou Hiring por suas низької psychometric reliability em testes reteste.缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
+**Limitações metodológicas importantes:**
 
- gaps de validade preditiva.缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
+- Baixa **reliability** no teste-reteste (a pessoa pode mudar de tipo em poucas semanas)
+- Ausência de **validade preditiva** robusta para desempenho profissional
+- O modelo trata dimensões contínuas como dicotomias absolutas
+- A teoria de Jung, na qual o MBTI se baseia, não tem comprovação empírica sólida em psicologia contemporânea
 
-### 3.2 Atividade Proposta
-
-Aula propõe o exercício no site **16personalities.com** para que cada aluno identifique seu tipo e discuta результат com o grupo — útil para a dinâmica de autoconhecimento.
+**Uso adequado:** ferramenta de autoconhecimento e discussão em grupo — não deve ser usado como critério de seleção, alocação ou eliminação de candidatos.
 
 ---
 
-## 4. Agenda de Desenvolvimento
+## 4. Agenda de Desenvolvimento Profissional
 
-Fonte: Material Prof. Joel Souza Dutra.缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
+Material do Prof. Joel Souza Dutra. A atividade sugere 4 perguntas-guia para reflexão individual:
 
-A atividade sugere 4 perguntas de reflexão:
-
-1. **Qual é o meu principal propósito com minha atuação profissional? Como quero ser lembrado?**
-2. **Quais são os principais cuidados em meu desenvolvimento para atuar de forma coerente com os meus propósitos?**
+1. **Qual é o meu principal propósito profissional? Como quero ser lembrado?**
+2. **Quais são os principais cuidados no meu desenvolvimento para atuar de forma coerente com meus propósitos?**
 3. **Quais são meus pontos fortes e pontos a desenvolver para atuar de forma consistente com meus propósitos?**
 4. **Como posso potencializar meus pontos fortes e trabalhar os pontos a desenvolver?**
 
-缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
-缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝
-隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
+Essas perguntas formam um ciclo de autoconhecimento contínuo — não são respondidas uma vez e Archived, mas revisitadas periodicamente à medida que o profissional evolui.
 
 ---
 
-## 5. Carreira: Âncoras e Ciclos (Revisão da Aula 5 —穿插手)
+## 5.续: Carreira — Âncoras e Ciclos (revisão da Aula 5)
 
-O conteúdo da Aula 6 também revisita brevemente as âncoras de carreira de **Edgar Schein** (já resumidas na Aula 5):
+A aula 6 também retoma brevemente as âncoras de carreira de **Edgar Schein** (originalmente apresentadas na aula 5), como base para a discussão de autoconhecimento:
 
 | Âncora | Definição central |
 |:---:|:---|
-| **AI** | Liberdade e independência no trabalho |
-| **SE** | Estabilidade e previsibilidade |
-| **TF** | Competência técnica ou funcional |
-| **CG** | Capacidade gerencial geral |
-| **CE** | Criatividade empreendedora |
-| **SD** | Serviço e dedicação a uma causa |
-| **DP** | Desafio puro |
-| **EV** | Estilo de vida equilibrado |
+| **AI — Autonomia e Independência** | Liberdade e independência no trabalho |
+| **SE — Segurança e Estabilidade** | Previsibilidade e permanência |
+| **TF — Competência Técnica/Funcional** | Especialista em área ou função |
+| **CG — Competência Gerencial Geral** | Capacidade de gestão e liderança |
+| **CE — Criatividade Empreendedora** | Criação de empreendimentos próprios |
+| **SD — Serviço/Dedicação a uma Causa** | Propósito social e impacto coletivo |
+| **DP — Desafio Puro** | Motivação pela dificuldade do problema |
+| **EV — Estilo de Vida** | Equilíbrio entre vida pessoal e profissional |
 
-缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙縫い隙
-
-Os **Ciclos de Influências** (Schein) também são revisitados — os três ciclos paralelos biossocial, profissional e familiar que afetam as decisões de carreira ao longo da vida.
+Os **ciclos de influências** de Schein (biossocial, profissional e familiar) também são revisitados — a interseção dos três ciclos explica por que muitas mudanças de carreira significativas acontecem entre os 30 e 40 anos, quando os três ciclos frequentemente convergem.
 
 ---
 
-## 6. Avaliação de Eficácia: O que Adoptar?
+## 6. Avaliação de Eficácia de Treinamento
 
-A Aula 6 menciona brevemente a necessidade de evaluar a eficácia das práticas de Treinamento e Desenvolvimento.缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
-缝隙
+A aula menciona brevemente a necessidade de avaliar a eficácia das práticas de Treinamento e Desenvolvimento. A ausência de avaliação formal Leads a investimentos sem garantia de retorno — um problema recorrente nos departamentos de RH no Brasil.
 
-Modelos comuns de avaliação de eficácia de treinamento (Kirkpatrick — 4 níveis): reação, aprendizado, comportamento e resultados.缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
-缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙填充缝隙缝隙
-缝隙
-A ausência de avaliação formal de eficácia Leads a investimentos重复sem garantiae de retorno — um problema recorrente em departamentos de RH no Brasil.
+Modelo de referência (Kirkpatrick — 4 níveis):
+
+| Nível | O que mede | Exemplo |
+|:---:|:---|:---|
+| **1. Reação** | Satisfação do participante | "Gostei do treinamento" |
+| **2. Aprendizado** | Conhecimento adquirido | Nota na prova pós-treinamento |
+| **3. Comportamento** | Mudança na prática | Avaliação do gestor 30 dias depois |
+| **4. Resultados** | Impacto nos negócios | Aumento de produtividade, redução de erros |
+
+A maioria das empresas brasileiras avalia apenas o nível 1 (satisfação) — o que não permite inferir se o investimento em treinamento realmente gerou resultados.
 
 ---
 
-## 7. Material de Apoio
+## 7. Referências
 
 - DUTRA, Joel Souza; ALBUQUERQUE, Lindolfo. **Gestão de Carreira: Uma Visão Integrada**. São Paulo: Atlas, 1996.
 - SCHEIN, Edgar H. **Career Anchors: Discovering Your Real Values**. San Diego: Pfeiffer & Company, 1978.
 - KIRKPATRICK, Donald L. **Evaluating Training Programs: The Four Levels**. San Francisco: Berrett-Koehler, 1994.
 - BRIGGS MYERS, Isabel; McCAULEY, Mary H. **MBTI Manual: A Guide to the Development and Use of the Myers-Briggs Type Indicator**. Palo Alto: CPP, 1998.
-- TWYGO. **O que é Treinamento e Desenvolvimento**. Disponível em: twygoead.com.

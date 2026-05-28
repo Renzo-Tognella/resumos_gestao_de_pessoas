@@ -2,78 +2,99 @@
 
 ## 1. Contextualização
 
-Aula 8 do Prof. Ney Nakazato Miyahira (UTFPR), disciplina de Gestão de Pessoas — Turma Especial. Os dois grandes temas integrados são **Avaliação por Competências** e **Feedback**. A aula também introduz **People Analytics** como tendência e detalha o processo de **Comitês de Gestão de Pessoas** para análise e endereçamento de consequências. Atividade prática: avaliação do personagem Preguiça do filme *Zootopia* e concessão de feedback estruturado ao Flecha.
+Aula 8 do Prof. Ney Nakazato Miyahira (UTFPR), disciplina de Gestão de Pessoas — Turma Especial. Os dois grandes temas são **Avaliação de Desempenho** e **Feedback**, com ênfase em avaliação por competências usando o exemplo do personagem Preguiça do filme *Zootopia*. A aula também introduz **People Analytics** como tendência e detalha o processo de **Comitês de Gestão de Pessoas**.
 
 ---
 
-## 2. Avaliação de Describenho: Dois Focos Complementares
+## 2. Avaliação de Desempenho: Dois Focos Complementares
+
+As organizações utilizam dois tipos principais de avaliação, que se complementam:
 
 ### 2.1 Avaliação por Objetivos (Quantitativa)
 
-Baseada no alcance de **metas SMART** (Specific, Measurable, Achievable, Relevant, Time-bound).缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝
+Baseada no alcance de **metas SMART**: Specific (específica), Measurable (mensurável), Achievable (alcançável), Relevant (relevante), Time-bound (prazo definido).
+
+O foco está em **resultados concretos e mensuráveis** — o que foi entregue, quanto foi produzido, se os prazos foram cumpridos. É a base para bonificação por desempenho e progressions是靠 meritocráticas.
 
 ### 2.2 Avaliação por Competências (Qualitativa)
 
-Baseada em **atitudes/comportamentos** e **espaço de atuação/nível de complexidade/nível de autonomia**.缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
+Baseada em **comportamentos observáveis** e no **nível de complexidade/autonomia** do profissional. Diferente da avaliação por metas, aqui o avaliador observa *como* a pessoa faz, não apenas *o que* foi feito.
 
-Instrumentos: **MBTI**, **Insights**, **OPQ** (Occupational Personality Questionnaire).缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
+Instrumentos utilizados:
+
+- **MBTI** — tipo psicológico (usado com cautela)
+- **Insights** — estilo comportamental
+- **OPQ** (Occupational Personality Questionnaire) — personalidade no trabalho
 
 ### 2.3 Matriz 9 Box
 
-A Matriz de Análise de Desempenho em **9 Box** combina dois eixos:
+Matriz de análise que combina os dois eixos — competências e resultados:
 
-- **Eixo vertical**: metas (quantitativo)
-- **Eixo horizontal**: competências (qualitativo)
+```
+                        METAS
+              Baixas    Médias    Altas
+          ┌─────────────────────────────┐
+   Altas  │ Desenvolver  │ Desenvolver  │ Alto
+          │ Competências│ Competências │ Desempenho
+COMPETÊNCIAS────────────┼──────────────┼──────────────┤
+   Médias │ Orientar p/ │ Progressão   │ Desenvolver
+          │ Metas       │ natural      │ Competências
+          ├──────────────┼──────────────┼──────────────┤
+   Baixas │ Orientar p/ │ Orientar p/  │ Desempenho
+          │ Metas       │ Metas        │ Insuficiente
+          └─────────────────────────────┘
+```
 
-| | Metas BAIXAS | Metas MÉDIAS | Metas ALTAS |
-|:---|:---:|:---:|:---:|
-| **Competências ALTAS** | Desenvolver Competências | Desenvolver Competências | Alto Desempenho |
-| **Competências MÉDIAS** | Orientar para Metas | Progressão natural | Desenvolver Competências |
-| **Competências BAIXAS** | Orientar para Metas | Orientar para Metas | Desempenho Insuficiente |
-
-缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
+| Quadrante | Ação recomendada |
+|:---|:---|
+| **Alto desempenho** (competências altas + metas altas) | Reconhecimento, progressão, sucessão |
+| **Desenvolver competências** (competências altas + metas baixas) | Orientação para metas, coaching |
+| **Orientar para metas** (competências baixas + metas altas) | Treinamento, acompanhamento próximo |
+| **Desempenho insuficiente** (competências baixas + metas baixas) | PDI, Plano de recuperação ou desligamento |
 
 ### 2.4 Avaliação Multifuentes (360°)
 
-Apresentada na aula como possibilidade: mengumpulkan feedback dari múltiples fontes — gestor, pares, subordinados, autoavaliação.缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙隙
+Reúne feedback de múltiplas fontes:
 
-Os dati vengono utilizzati per: retribuzione variável, carrera, seleção, sucessão, PDI.缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙喂
+- **Gestor** (avaliação hierárquica)
+- **Pares** (avaliação横向)
+- **Subordinados** (feedback descendente)
+- **Autoavaliação**
+
+Os dados são usados para: bonificação variable, carreira, seleção interna, sucessão, PDI.
 
 ### 2.5 Escala de Avaliação por Competências
 
 | Nivelamento | Critério |
 |:---:|:---|
-| **S (Supera)** | Supera os critérios: apresenta as características com padrão de excelência, ou já atende ao nível posterior |
-| **A (Atende)** | Demonstra atendimento pleno dos critérios definidos para seu nível, de forma constante e consistente |
-| **AP (Atende Parcialmente)** | Atende parcialmente — oscila com relação ao nível requerido |
-| **NA (Não Atende)** | Não atende os critérios ou não manifesta as características comportamentais descritas |
+| **S (Supera)** | Apresenta as características com padrão de excelência; já atende ou está próximo do nível posterior |
+| **A (Atende)** | Demonstra atendimento pleno dos critérios de forma constante e consistente |
+| **AP (Atende Parcialmente)** | Atende parcialmente — oscila em relação ao nível requerido |
+| **NA (Não Atende)** | Não atende os critérios ou não manifesta as características descritas |
 
-缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
+A **evidência** é obrigatória: o avaliador deve registrar fatos e situações concretas observadas, não impressões genéricas.
 
 ---
 
 ## 3. Comitês de Gestão de Pessoas
 
-Estrutura hierárquica para análise de resultados:
+Estrutura hierárquica para análise e decisão sobre pessoas:
 
 ```
-Coordenadores → Gerentes → Diretores → Presidente
+Coordenadores ──► Gerentes ──► Diretores ──► Presidente
+    1° Comitê      2° Comitê    3° Comitê
 ```
-
-缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
 
 **Funções dos comitês:**
 
-1. **Identificar potenciais sucessores** e colaboradores detentores de conhecimento-chave e desenvolvê-los
-2. **Sugerir ações de retenção e reconhecimento** (financeiro ou não)
-3. **Estudar dimensionamento de quadro**, oportunidades de alocação/movimentação, sinalizar necessidade de seleção
-4. **Indicar prioridades de investimento em desenvolvimento**
-5. **Diagnosticar e endereçar situações-problema** (recuperação de desempenho)
-6. **Escolher profissionais para movimentação salarial** (progressão ou promoção)
+1. Identificar potenciais sucessores e colaboradores detentores de conhecimento-chave e desenvolvê-los
+2. Sugerir ações de retenção e reconhecimento (financeiro ou não)
+3. Estudar necessidades de dimensionamento de quadro, oportunidades de alocação e movimentação, e sinalizar necessidade de seleção
+4. Indicar prioridades de investimento em desenvolvimento
+5. Diagnosticar e endereçar situações-problema (recuperação de desempenho)
+6. Escolher profissionais para movimentação salarial (progressão ou promoção)
 
-缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
-
-**Regra crucial**:Todas as decisões e recomendações devem ser **documentadas**.缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
+**Regra crucial:** todas as decisões e recomendações devem ser **documentadas por escrito** — sem registro, não há accountability e decisões podem ser contestadas sem base.
 
 ---
 
@@ -81,17 +102,15 @@ Coordenadores → Gerentes → Diretores → Presidente
 
 ### 4.1 Definição
 
-People Analytics é o processo de coleta, organização e análise de dados sobre informações das equipes para tomada de decisão basada em evidências.缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
+People Analytics é o processo sistemático de coleta, organização e análise de dados sobre as equipes da empresa, com o objetivo de fundamentar decisões de RH em evidências — não em intuição.
 
 ### 4.2 Situação no Brasil
 
-Pesquisa da **PwC Brasil**: apenas **9%** das empresas brasileiras usam dados em RH para fazer **previsões e planejamento de cenários futuros**.缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
+Pesquisa da **PwC Brasil**: apenas **9%** das empresas brasileiras usam dados em RH para fazer previsões e planejamento de cenários futuros. A grande maioria ainda toma decisões por intuição ou tradição.
 
-O gap é expressivo: a maioria das empresas brasileiras ainda toma decisões de RH por intuição, não por dados.
+Isso coloca o Brasil bem atrás de mercados mais maduros (EUA, Reino Unido, Singapura), onde People Analytics já é função estabelecida em departamentos de RH de médio e grande porte.
 
-### 4.3 Recursos
-
-Video complementar: https://www.youtube.com/watch?v=B4EqhvSuv4o (sobre People Analytics).
+Video complementar: https://www.youtube.com/watch?v=B4EqhvSuv4o
 
 ---
 
@@ -101,61 +120,54 @@ Video complementar: https://www.youtube.com/watch?v=B4EqhvSuv4o (sobre People An
 
 > "É um processo de comunicação que auxilia as pessoas a entenderem como seu comportamento está impactando o outro, a equipe ou os resultados." (Profa. Tatiana Feijó)
 
-缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙烬
+O feedback fornece informações concretas para que a pessoa possa melhorar ou reorientar seu desempenho.
 
-Fornece informações para melhorar/reorientar o desempenho hacia o alcance dos objetivos.缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙碎片
+### 5.2 Por que o Feedback é Importante?
 
-### 5.2 Por que o Feedback é Importante? (6 razões)
+1. Aumentar o **autoconhecimento** a partir da observação feita por outros
+2. Conhecer as próprias **limitações** de forma objetiva
+3. Saber o que está sendo feito **bem** para continuar fazendo
+4. Verificar se há **entendimento alinhado** entre líder e liderado sobre o que deve ser feito
+5. Possibilitar o **autodesenvolvimento** e mudança consciente
+6. Fornecer informações para **reorientar o desempenho** na direção correta
 
-1. Para aumentar o **autoconhecimento** a partir da observação do outro
-2. Para conhecer as **minhas limitações**
-3. Para saber o que estou **fazendo bem** e continuar a fazê-lo
-4. Para verificar meu **entendimento e alinhar expectativas** quanto ao que deve ser feito
-5. Para possibilitar o **autodesenvolvimento e a mudança**
-6. Fornece informações concretas que ajudam a **reorientar o desempenho**
+### 5.3 Estrutura do Feedback
 
-缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
-
-### 5.3 Estrutura do Feedback (modelo IDEAL)
-
-Não explicitado como modelo formal na aula, mas o contexto indica uma estrutura típica:
-
-| Fase | Conteúdo |
+| Fase | O que dizer |
 |:---:|:---|
-| **Incidente** | Descrever a situação específica观察到 |
-| **Impacto** | Explicar o efeito do comportamento no outro/equipe/resultados |
-| **Sugestão** | Orientar para o comportamento esperado |
+| **Incidente** | Descrever a situação ou comportamento específico observado |
+| **Impacto** | Explicar o efeito desse comportamento no outro, na equipe ou nos resultados |
+| **Sugestão** | Orientar para o comportamento esperado a partir de agora |
 
-缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
+Exemplo: em vez de "Você é desorganizado", dizer: "Nas últimas três reuniões (incidente), você não trouxe os dados combinados (impacto: a equipe ficou sem base para a decisão), peço que na próxima reunião traga o relatório preparado com antecedência (sugestão)".
 
 ---
 
 ## 6. Atividade Prática: Zootopia
 
-A aula incluye watching de trecho do filme **Zootopia** para duas atividades:
+### 6.1 Atividade 1 — Avaliação por Competências do Preguiça
 
-**Atividade 1 — Avaliação por Competências do Preguiça:**
+Os alunos assistiram a um trecho do filme **Zootopia** e aplicaram uma avaliação por competências no personagem **Preguiça** (funcionário do Departamento de Veículos Motorizados).
 
-| Competência | Critério (Analista Júnior) | Avaliação |
-|:---|:---|:---:|
-| **Foco em Resultados** | Realiza atividades com qualidade e cumpre prazos definidos com a liderança | S/A/AP/NA |
-| **Cooperação** | Relaciona-se de modo cooperativo, positivo e com respeito no ambiente de trabalho | S/A/AP/NA |
-| **Compromisso com Cliente** | Atende o cliente com cordialidade, transparência e senso de urgência | S/A/AP/NA |
+A competências avaliadas (perfil: Analista Júnior):
 
-缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙
+| Competência | Comportamento esperado | Registro de evidências |
+|:---|:---|:---|
+| **Foco em Resultados** | Realiza atividades com qualidade e rigor, dentro dos prazos combinados com a liderança | Observar como lida com as reclamações dos clientes sobre a demora |
+| **Cooperação** | Relaciona-se de modo cooperativo, positivo e com respeito, contribuindo para o clima organizacional | Observar a interação com Judi Hopps |
+| **Compromisso com Cliente** | Atende com cordialidade, transparência e senso de urgência, mesmo em situações adversas | Observar como responde às solicitações incomuns de Nick Wilde |
 
-**Atividade 2 — Feedback ao Flecha:**
+### 6.2 Atividade 2 — Feedback ao Flecha
 
-Conceder feedback estruturado ao personagem Flecha (subordinado do Judi Hopps) após assistir ao trecho.缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙 fissure
+Conceder feedback estruturado ao personagem **Flecha** (subordinado de Judi Hopps), utilizando o modelo de feedback ensinado na aula.
 
-O contexto do filme permite trabalhar competências como foco em resultados (o Preguiça trabalhar lentamente, atendendo clientes no departamento de veículos) e cooperação (a dinâmica com Judi Hopps na investigação).缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝隙缝
+O contexto do filme permite trabalhar situações reais: a lealdade do Flecha à sua função, a paciência em atender situações adversas, e o equilíbrio entre cumprimento de processos e flexibilidade.
 
 ---
 
-## 7. Material de Apoio
+## 7. Referências
 
 - FEIJÓ, Tatiana. **Material de Apoio: Feedback**. (mimeografado).
 - DUTRA, Joel Souza; ALBUQUERQUE, Lindolfo. **Gestão de Carreira: Uma Visão Integrada**. São Paulo: Atlas, 1996.
-- SCHEIN, Edgar H. **Career Anchors**. San Diego: Pfeiffer & Company, 1978.
-- KIRKPATRICK, Donald L. **Evaluating Training Programs: The Four Levels**. Berrett-Koehler, 1994.
+- KIRKPATRICK, Donald L. **Evaluating Training Programs: The Four Levels**. San Francisco: Berrett-Koehler, 1994.
 - PwC Brasil. **Pesquisa People Analytics** (referência citada na aula).
