@@ -67,7 +67,7 @@ Essas perguntas formam um ciclo de autoconhecimento contínuo — não são resp
 
 ---
 
-## 5.续: Carreira — Âncoras e Ciclos (revisão da Aula 5)
+## 5.continuação: Carreira — Âncoras e Ciclos (revisão da Aula 5)
 
 A aula 6 também retoma brevemente as âncoras de carreira de **Edgar Schein** (originalmente apresentadas na aula 5), como base para a discussão de autoconhecimento:
 
@@ -88,7 +88,7 @@ Os **ciclos de influências** de Schein (biossocial, profissional e familiar) ta
 
 ## 6. Avaliação de Eficácia de Treinamento
 
-A aula menciona brevemente a necessidade de avaliar a eficácia das práticas de Treinamento e Desenvolvimento. A ausência de avaliação formal Leads a investimentos sem garantia de retorno — um problema recorrente nos departamentos de RH no Brasil.
+A aula menciona brevemente a necessidade de avaliar a eficácia das práticas de Treinamento e Desenvolvimento. A ausência de avaliação formal leva a investimentos sem garantia de retorno — um problema recorrente nos departamentos de RH no Brasil.
 
 Modelo de referência (Kirkpatrick — 4 níveis):
 

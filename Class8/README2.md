@@ -14,7 +14,7 @@ As organizações utilizam dois tipos principais de avaliação, que se compleme
 
 Baseada no alcance de **metas SMART**: Specific (específica), Measurable (mensurável), Achievable (alcançável), Relevant (relevante), Time-bound (prazo definido).
 
-O foco está em **resultados concretos e mensuráveis** — o que foi entregue, quanto foi produzido, se os prazos foram cumpridos. É a base para bonificação por desempenho e progressions是靠 meritocráticas.
+O foco está em **resultados concretos e mensuráveis** — o que foi entregue, quanto foi produzido, se os prazos foram cumpridos. É a base para bonificação por desempenho e progressões meritocráticas.
 
 ### 2.2 Avaliação por Competências (Qualitativa)
 
@@ -57,11 +57,11 @@ COMPETÊNCIAS────────────┼─────────�
 Reúne feedback de múltiplas fontes:
 
 - **Gestor** (avaliação hierárquica)
-- **Pares** (avaliação横向)
+- **Pares** (avaliação de pares)
 - **Subordinados** (feedback descendente)
 - **Autoavaliação**
 
-Os dados são usados para: bonificação variable, carreira, seleção interna, sucessão, PDI.
+Os dados são usados para: bonificação variável, carreira, seleção interna, sucessão, PDI.
 
 ### 2.5 Escala de Avaliação por Competências
 

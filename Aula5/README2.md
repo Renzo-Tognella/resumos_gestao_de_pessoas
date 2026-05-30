@@ -2,7 +2,7 @@
 
 ## 1. Contextualização
 
-Disciplina de Gestão de Pessoas, Prof. Ney Nakazato Miyahira (UTFPR) — Turma Especial, quartas 18h40–21h10, Campus Ecoville. A aula 5 (01/04)、工 dois blocos temáticos: **Recrutamento e Seleção (R&S)** e **Carreira**.
+Disciplina de Gestão de Pessoas, Prof. Ney Nakazato Miyahira (UTFPR) — Turma Especial, quartas 18h40–21h10, Campus Ecoville. A aula 5 (01/04) dois blocos temáticos: **Recrutamento e Seleção (R&S)** e **Carreira**.
 
 **Blocos da disciplina**: Model os de RH · Gerações · Recrutamento e Seleção · Carreira · Desenvolvimento · Avaliação · Feedback · Remuneração Fixa · Remuneração Variável · PVE e Marca Empregadora · Seminários.
 
@@ -19,9 +19,9 @@ A aula abre com dados concretos do mercado norte-americano:
 - **Contratar profissionais do 90º percentil** (os melhores desde o início): custo médio de **US$ 456,44 por funcionário**, representando **13,6%** das despesas totais de RH.
 - **Contratar profissionais medianos e treiná-los** até o 90º percentil: custo médio de **US$ 606,36** (18,3% do total de RH).
 
-A diferença é expressiva: quase um terço a mais no custo. A lógica financeira favors a escolha seletiva no recrutamento — gastar mais tempo e dinheiro na escolha inicial é mais barato do que tentar desenvolver alguém que não nasceu para o papel.
+A diferença é expressiva: quase um terço a mais no custo. A lógica financeira favorece a escolha seletiva no recrutamento — gastar mais tempo e dinheiro na escolha inicial é mais barato do que tentar desenvolver alguém que não nasceu para o papel.
 
-Esses dados são contextualizados com *Moneyball* (Lewis, 2003): Billy Beane, gerente geral do Oakland Athletics, usou análise estatística para montar um time competitivo de basebol com orçamento limitado em 2002. A mesma lógica de otimização de recursos se aplica diretamente a decisões de R&S corporate.
+Esses dados são contextualizados com *Moneyball* (Lewis, 2003): Billy Beane, gerente geral do Oakland Athletics, usou análise estatística para montar um time competitivo de basebol com orçamento limitado em 2002. A mesma lógica de otimização de recursos se aplica diretamente a decisões de R&S corporativo.
 
 ### 2.2 O Processo de Recrutamento: Caso Google
 
@@ -36,7 +36,7 @@ Gerente decide → Oferta
 
 **Modelo atual** (Google maduro):
 ```
-Candidatura → Triagem por специалист qui conhece TODOS os cargos →
+Candidatura → Triagem por especialista que conhece TODOS os cargos →
 Entrevista por vídeo → Entrevista presencial (gerente + pares +
 subordinados + entrevistador interfuncional) → Feedback formal e estruturado →
 Comitê revisa → Líder sênior revisa → CEO aprova
@@ -46,11 +46,11 @@ Comitê revisa → Líder sênior revisa → CEO aprova
 
 ### 2.3 A Questão do Diploma no Brasil
 
-Artigos da Exame (out. 2018) e Tecnoblog reportam que IBM, Apple e Google dispensam o diploma universitário em suas contratações. A pesquisa do IPT (Instituto de Pesquisas Tecnológicas) apresentada na Summit FIA 2025 reforça a tendencia.
+Artigos da Exame (out. 2018) e Tecnoblog reportam que IBM, Apple e Google dispensam o diploma universitário em suas contratações. A pesquisa do IPT (Instituto de Pesquisas Tecnológicas) apresentada na Summit FIA 2025 reforça a tendência.
 
 Seria um erro, contudo, interpretar isso como uma prática universal. No Brasil, o diploma ainda funciona como filtro relevante — especialmente em processos seletivos formais e setores regulados. Essa diferença reflete o contexto do mercado de trabalho brasileiro, onde aias credenciais formais continuam sendo valorizadas como sinal de competência.
 
-A recomendação da aula é contextualizar: a dispensa do diploma é uma prática de gigantes de tecnologia e startups em mercados de alta qualificação, particularly nos EUA — não uma regra global.
+A recomendação da aula é contextualizar: a dispensa do diploma é uma prática de gigantes de tecnologia e startups em mercados de alta qualificação, particularmente nos EUA — não uma regra global.
 
 ### 2.4 Recrutamento Interno vs. Externo
 
@@ -60,7 +60,7 @@ A recomendação da aula é contextualizar: a dispensa do diploma é uma prátic
 | Custo | Menor | Maior |
 | Motivação da equipe | Pode motivar ou gerar inveja | Traz perspectiva nova |
 | Risco de estagnação | Maior ("entesouramento") | Menor |
-| Perfil do candidato | São四面埋伏 (pode ser limitante) | Diverso (pode surpreender) |
+| Perfil do candidato | Sãoem todo lugar — o que pode ser limitante (pode ser limitante) | Diverso (pode surpreender) |
 
 A dinâmica proposta na aula reforça: não há resposta certa universal — a escolha depende da vaga, do momento estratégico e da cultura organizacional.
 
@@ -83,7 +83,7 @@ A carreira é a sequência de posições ocupados e de trabalhar realizados dura
 
 O autogerenciamento minimiza o risco de alguém ser "pego de surpresa" em armadilhas ou não exercer seu poder de escolha. A mensagem central: não existem fórmulas mágicas.
 
-A ausência de projeto profissional consciente leva a uma visão restrita de oportunidades — alguém que nunca refletiu sobre seus objetivos tends a aceitar oportunidades que aparecem por acaso, sem avaliar se fazem sentido com seus propósitos.
+A ausência de projeto profissional consciente leva a uma visão restrita de oportunidades — alguém que nunca refletiu sobre seus objetivos tende a aceitar oportunidades que aparecem por acaso, sem avaliar se fazem sentido com seus propósitos.
 
 ### 3.3 Projeto Profissional: 4 Etapas
 
@@ -98,7 +98,7 @@ Vídeo complementar: https://www.youtube.com/watch?v=-ofFHBNrW8c
 
 ### 3.4 Âncoras de Carreira (Edgar Schein)
 
-Extraído de *Career Anchors* (Schein, 1978), instrumento widely utilizado globally para mapear o que realmente motiva profissionais — muito além do salário. Adaptado para RH por Joel Dutra e Lindolfo Albuquerque.
+Extraído de *Career Anchors* (Schein, 1978), instrumento amplamente utilizado globally para mapear o que realmente motiva profissionais — muito além do salário. Adaptado para RH por Joel Dutra e Lindolfo Albuquerque.
 
 | Âncora | Sigla | Definição central |
 |:---:|:---:|:---|
@@ -106,7 +106,7 @@ Extraído de *Career Anchors* (Schein, 1978), instrumento widely utilizado globa
 | **Segurança e Estabilidade** | SE | Previsibilidade de desempenho, recompensas estáveis. Profissionais que valorizam permanência e ordem |
 | **Competência Técnica/Funcional** | TF | Especialista em área específica. Valoriza o domínio técnico, não a management |
 | **Competência Gerencial Geral** | CG | Capacidade analítica + relacion interpessoal + equilíbrio emocional. Querem ser gerentes |
-| **Criatividade Empreendedora** | CE | Criação de novos negócios, produtos ou serviços. Dispostos a correr riscos pelo propres efforts |
+| **Criatividade Empreendedora** | CE | Criação de novos negócios, produtos ou serviços. Dispostos a correr riscos pelo próprios esforços |
 | **Serviço/Dedicação a uma Causa** | SD | Melhorar a sociedade, ajudar os outros, causas ambientais/sociais |
 | **Desafio Puro** | DP | Superar obstáculos e problemas aparentemente insolúveis. Quanto mais difícil, mais motivado |
 | **Estilo de Vida** | EV | Equilíbrio entre vida pessoal e profissional. A carreira não é o objetivo principal |
@@ -123,7 +123,7 @@ Três ciclos paralelos afetam as decisões de carreira ao longo da vida:
 
 **Ciclo Familiar (C):** C1 Casamento e Nascimento dos Filhos → C2 Adolescência dos Filhos e Saída de Casa
 
-Esses três ciclos se sobrepõem e/create tensões concorrentes — uma promoção no trabalho pode coincidir com o nascimento de um filho, criando uma crise de priorities.
+Esses três ciclos se sobrepõem e/criam tensões concorrentes — uma promoção no trabalho pode coincidir com o nascimento de um filho, criando uma crise de prioridades.
 
 ### 3.6 Armadilhas de Carreira
 
@@ -131,7 +131,7 @@ Esses três ciclos se sobrepõem e/create tensões concorrentes — uma promoç�
 |:---|:---|:---|
 | **Beco sem Saída** | Especialização excessiva em uma única empresa ou mercado; técnica em obsolescência; dependência de pessoas instáveis | Recompensas financeiras momentâneas |
 | **Insatisfação** | Áreas de alto stress sem realização; atividades que exploram pontos fracos; sem química com colegas | Status social; promoções rápidas |
-| **Caminho Errado** | Promoção para áreas sem interesse pessoal; transferência sem perspectiva | Pressão de amigos/familiares |
+| **Caminho Errado** | Promoção para áreas sem interessee pessoal; transferência sem perspectiva | Pressão de amigos/familiares |
 | **Desgaste da Imagem** | Empresa com problemas no mercado; exposição a escândalos | Imagem da posição/área/empresa |
 | **Efeito Manada** | Seguir os passos dos outros ou modismos | Facilidade de projetos de curto prazo |
 

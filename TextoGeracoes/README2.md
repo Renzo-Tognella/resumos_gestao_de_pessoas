@@ -8,7 +8,7 @@ O texto alerta: **gerações são tendências gerais, não regras rígidas.** Cu
 
 ---
 
-## 2. As Cinq generations no Mercado de Trabalho
+## 2. As Cinco gerações no Mercado de Trabalho
 
 ### 2.1 Baby Boomers (1946–1964)
 
@@ -31,7 +31,7 @@ O texto alerta: **gerações são tendências gerais, não regras rígidas.** Cu
 | Pontos fortes | Desafios |
 |:---|:---|
 | Pragmatismo e adaptabilidade | Menor tolerância à ambiguidade organizacional |
-| Independência e autogestão | Lealdade potentially menor à organização |
+| Independência e autogestão | Lealdade potencialmente menor à organização |
 | Fluidez tecnológica (adaptam-se a novas ferramentas) | Resistência a culturas de excesso de trabalho |
 | Orientação para resultados | Por vezes menor valorização de relações interpessoais |
 
@@ -46,7 +46,7 @@ O texto alerta: **gerações são tendências gerais, não regras rígidas.** Cu
 | Colaboração e trabalho em equipe | Impaciência com estructuras rígidas e processos lentos |
 | Adaptabilidade tecnológica | Expectativas de progresso rápido que podem gerar rotatividade alta |
 | Visão orientada para propósito | Potencial conflito com culturas corporativas tradicionais |
-| Naturalidade com diversidade e inclusão | Valorização do feedback pode ser vista como "carência de autonomía" |
+| Naturalidade com duniversidadee e inclusão | Valorização do feedback pode ser vista como "carência de autonomía" |
 
 **Dado relevante**: 83% dos millennials dizem que o trabalho é mais do que só salário — buscam significado e propósito, independentemente da remuneração.
 
@@ -54,15 +54,15 @@ O texto alerta: **gerações são tendências gerais, não regras rígidas.** Cu
 
 ### 2.4 Geração Z (1997–2012)
 
-**Contexto histórico**: Expansão massiva de smartphones (iPhone 2007), redes sociais (Instagram 2010, TikTok 2016), crises financeiras долгосрочные consequências, streaming, geopolítica pós-11 de setembro, emergência climática.
+**Contexto histórico**: Expansão massiva de smartphones (iPhone 2007), redes sociais (Instagram 2010, TikTok 2016), crises financeiras de longo prazo consequências, streaming, geopolítica pós-11 de setembro, emergência climática.
 
-**Valores centrais**: Diversidade, flexibilidade, aprendizado rápido, autenticidade, transparência radical.
+**Valores centrais**: Duniversidadee, flexibilidade, aprendizado rápido, autenticidade, transparência radical.
 
 | Pontos fortes | Desafios |
 |:---|:---|
 | Fluidez tecnológica máxima (nativos digitais) | Ansiedade e comparação social via redes sociais |
 | Criatividade e capacidade de multitarefa | Menor tolerância a hierarquias rígidas |
-| Naturalidade com diversidade e inclusão | Pode preferir comunicação digital a interação presencial |
+| Naturalidade com duniversidadee e inclusão | Pode preferir comunicação digital a interação presencial |
 | Rapidez de aprendizado | Dificuldade em atenção sustentada em tarefas longas e analíticas |
 
 ### 2.5 Geração Alpha (2010–2025)
@@ -111,33 +111,33 @@ O modelo de **Neil Howe** e **William Strauss** é a referência mais influente 
 
 ### 4.2 Twenge (iGen, 2017)
 
-Jean Twenge dokumentou tendencias estatisticamente verificáveis (aumento de solidão, queda de civic engagement, queda de natalidade) na Geração Z e iGen. Seus dados são empríricos, mas a interpretação causal é contestada.
+Jean Twenge dokumentou tendências estatisticamente verificáveis (aumento de solidão, queda de civic engagement, queda de natalidade) na Geração Z e iGen. Seus dados são empríricos, mas a interpretação causal é contestada.
 
 **Críticas a Twenge:**
 - A correlação entre ano de nascimento e comport comportamentos não implica causalidade geracional
 - Fatores econômicos (estagnação salarial, custo de habitação) explicam tanto ou mais das tendências quanto a "cultura digital"
-- A.generalização baseada em amostras universitárias (comuns em pesquisa de psicologia) não representa a diversidade de uma geração
+- A.generalização baseada em amostras universitárias (comuns em pesquisa de psicologia) não representa a duniversidadee de uma geração
 
 ---
 
-## 5. Gestão da Diversidade Geracional
+## 5. Gestão da Duniversidadee Geracional
 
 ### 5.1 Benefícios de uma Gestão Bem Feita
 
-Quando a diversidade geracional é ativamente gerenciada, a organização pode obtener:
+Quando a duniversidadee geracional é ativamente gerenciada, a organização pode obter:
 
 | Benefício | Como acontece |
 |:---|:---|
 | **Inovação** | Diferentes perspectivas geracionais combinadas em equipes geram soluções mais criativas |
 | **Aprendizado mútuo** | Boomers ensinam experiência institucional; Gen Z ensina fluência tecnológica |
-| **Melhor tomada de decisão** | Múltiplas lentes de análise sobre o mismo problema |
-| **Maior equilíbrio** | Diferentes necessidades de flexibilidade atendidas simultáneamente |
+| **Melhor tomada de decisão** | Múltiplas lentes de análise sobre o mesmo problema |
+| **Maior equilíbrio** | Diferentes necessidades de flexibilidade atendidas simultaneamente |
 
 ### 5.2 O Papel do Gestor
 
-> "O papel do gestor é **integrar estilos diferentes**, não imponer um sobre o outro."
+> "O papel do gestor é **integrar estilos diferentes**, não impor um sobre o outro."
 
-O bom gestor conhece as tendências geracionais e as usa como ponto de partida para conversa, não como caixa de conclusões pré-formadas. A aplicação prática é criar equipos diversos, adaptar a comunicação ao interlocutor, e oferecer flexibilidade dentro de límites razoáveis.
+O bom gestor conhece as tendências geracionais e as usa como ponto de partida para conversa, não como caixa de conclusões pré-formadas. A aplicação prática é criar equipos diversos, adaptar a comunicação ao interlocutor, e oferecer flexibilidade dentro de limites razoáveis.
 
 ---
 
@@ -148,7 +148,7 @@ O texto indica uma atividade pré-aula (vale presença/participação):
 1. **A qual geração você pertence?**
 2. **Uma característica com a qual você se identifica**
 3. **Uma característica com a qual você NÃO se identifica**
-4. **Um conflito geracional já observado** (trabalho, estágio ou universidad)
+4. **Um conflito geracional já observado** (trabalho, estágio ou ununiversidade)
 
 Vídeo pré-aula recomendado: *Every Generation Explained in 10 minutes* — https://www.youtube.com/watch?v=ZWJNKWK0tbc
 

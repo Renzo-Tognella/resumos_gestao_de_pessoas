@@ -6,12 +6,12 @@
 
 ### 1.1 Origens Conceituais da Marca Empregadora
 
-O conceito de **employer brand** (marca empregadora) foi introduzido por **Simon Barrow** em 1996, em parceria com a Advertising Agency, durante seu trabalho na *Organisational Development Team* da empresa de telecomunicações britânica **BT (British Telecom)**. Barrow compreendeu que a atração e retenção de talentos demands uma abordagem estrategicamente análoga à construção de marcas de consumo — isto é, a criação de uma promessa emocional e funcional Distinctiva que posiciona a organização de forma única no mercado de trabalho.
+O conceito de **employer brand** (marca empregadora) foi introduzido por **Simon Barrow** em 1996, em parceria com a Advertising Agency, durante seu trabalho na *Organisational Development Team* da empresa de telecomunicações britânica **BT (British Telecom)**. Barrow compreendeu que a atração e retenção de talentos exige uma abordagem estrategicamente análoga à construção de marcas de consumo — isto é, a criação de uma promessa emocional e funcional Distinctiva que posiciona a organização de forma única no mercado de trabalho.
 
-> *"A Employer Brand is the package of functional, economic and psychological benefits provided by employment, and identified with the employing organization."*  
+> *"A Employer Brand is the package of functional, economic and psychological benefícios provided by employment, and identified with the employing organization."*  
 > — Barrow, 1996 (apud Barrow & Ambler, 2009)
 
-Simon Barrow (1947–2018) foi um executivo de marketing e recursos humanos whose work became foundational na intersecção entre gestão de marca e gestão de pessoas. Sua abordagem propunha que a marca empregadora transcende a mera divulgação de vagas: ela encapsulate toda a experiência do colaborador com a organização, desde o processo seletivo até a eventual separação (seja por demissão ou aposentadoria).
+Simon Barrow (1947–2018) foi um executivo de marketing e recursos humanos cuja work became foundational na intersecção entre gestão de marca e gestão de pessoas. Sua abordagem propunha que a marca empregadora transcende a mera divulgação de vagas: ela encapsulate toda a experiência do colaborador com a organização, desde o processo seletivo até a eventual separação (seja por demissão ou aposentadoria).
 
 ---
 
@@ -20,7 +20,7 @@ Simon Barrow (1947–2018) foi um executivo de marketing e recursos humanos whos
 A formulação académica mais influente sobre marca empregadora foi desenvolvida por **Tim Ambler** e **Simon Barrow**, que propuseram a seguinte estrutura:
 
 ```
-Employer Brand =.functional+economic+psychological benefits delivered by employment
+Employer Brand = benefícios funcionais + econômicos + psicológicos delivered by employment
 ```
 
 Decompondo esta equação:
@@ -29,9 +29,9 @@ Decompondo esta equação:
 |---|---|---|
 | **Benefícios Funcionais** | Aqueles relacionados ao trabalho concreto: tarefas, responsabilidades, localização, horário, condições físicas | Home office, horário flexível, tecnologias fornecidas |
 | **Benefícios Económicos** | Compensação tangível e monetária: salário, bônus, participação acionária, stock options | Salário competitivo, PLR, stock vesting |
-| **Benefícios Psicológicos** | L花园emocionais e identitários: pertencimento, propósito, pride, desenvolvimento de carreira | Sentido de missão, cultura organizacional, reconhecimento |
+| **Benefícios Psicológicos** | emocionais e identitários: pertencimento, propósito, pride, desenvolvimento de carreira | Sentido de missão, cultura organizacional, reconhecimento |
 
-Ambler & Barrow publicaram suas descobertas em artigos acadêmicos na *Journal of Brand Management* e na *Human Resource Management Journal*, consolidando a marca empregadora como campo de estudo legítimo dentro da gestão de pessoas baseada em evidências.
+Ambler & Barrow publicaram suas descobertas em artigos acadêmicos na *Journal of Brand Management* e na *Human Refonte Management Journal*, consolidando a marca empregadora como campo de estudo legítimo dentro da gestão de pessoas baseada em evidências.
 
 ---
 
@@ -40,13 +40,13 @@ Ambler & Barrow publicaram suas descobertas em artigos acadêmicos na *Journal o
 Antes mesmo da popularização do termo *employer brand*, **Rosannah Berard** e **James Pabon** (1992) desenvolveram um modelo de compensação ampla que viria a influenciar profundamente a forma como organizações e académicos conceptualizam o pacote total devalue offered aos colaboradores. O modelo de **Total Rewards** estrutura-se em quatro pilares:
 
 ```
-Total Rewards = Compensation + Benefits + Appreciation + Balance
+Total Rewards = Compensação + Benefícios + Apreciação + Equilíbrio
 ```
 
 #### 1.3.1 Compensation (Compensação)
 Todos os elementos de natureza financeira direta, incluindo:
 - Salário base
-- Bônus de desempenho (short-term e long-term incentives)
+- Bônus de desempenho (incentivos de curto e longo prazo)
 - Participação nos lucros e resultados (PLR)
 - Stock options e restricted stock units (RSUs)
 - Comissões e indicadores de produção
@@ -57,17 +57,17 @@ Programas de proteção e suporte que complementam a compensação:
 - Plano de previdência complementar
 - Seguro de vida e acidentes
 - Auxílio educação e desenvolvimento
-- Programas de bem-estar (gympass, counseling)
+- Programas de bem-estar (Gympass, apoio psicológico)
 
-#### 1.3.3 Appreciation (Apreciação)
-A dimensão mais субtle e frequentemente undervalued — o reconhecimento Formal e Informal:
+#### 1.3.3 Apreciação (Apreciação)
+A dimensão mais subtle e frequentemente subestimada — o reconhecimento formal e Informal:
 - Programmes de reconhecimento de pares e gestores
 - Feedback contínuo e estruturado
 - Celebração de conquistas individuais e de equipe
 - Comunicação transparentesobre progressão de carreira
 - Certificações e premiações formais
 
-#### 1.3.4 Balance (Equilíbrio)
+#### 1.3.4 Equilíbrio (Equilíbrio)
 O equilíbrio entre as demandas profissionais e a vida pessoal:
 - Horário flexível e trabalho remoto
 - Férias adicionais e licenças extensionadas
@@ -75,13 +75,13 @@ O equilíbrio entre as demandas profissionais e a vida pessoal:
 - Sabbatical leaves
 - Cultura de respeito aos limites de tempo
 
-Berard & Pabon arguementaram que a verdadeira eficácia de um programa de Total Rewards reside na **articulação integrada** dos quatro pilares — não na excelência isolada de cada um. Este modelo permanece Highly influente nas práticas de RH contemporâneas e é diretamente relacionado ao conceito moderno de EVP.
+Berard & Pabon argumentaram que a verdadeira eficácia de um programa de Total Rewards reside na **articulação integrada** dos quatro pilares — não na excelência isolada de cada um. Este modelo permanece Muito influente nas práticas de RH contemporâneas e é diretamente relacionado ao conceito moderno de EVP.
 
 ---
 
 ## 2. Proposta de Valor ao Empregado (EVP)
 
-### 2.1 Definição Formal
+### 2.1 Definição formal
 
 A **Employee Value Proposition (EVP)** é o conjunto Distinctivo de benefícios que um empregador oferece em troca das habilidades, competências e engajamento do colaborador. Segundo Armstrong & Taylor (2020), a EVP responde à pergunta fundamental: *"Por que um profissional de alta qualidade deveria escolher esta organização — e não a concorrência?"*
 
@@ -91,21 +91,21 @@ A EVP é, portanto, a **tradução interna** da marca empregadora: enquanto a ma
 
 Uma EVP robusta Tipicamente incorpora:
 
-1. **Remuneração e incentivos** — competitive pay, equity, variable compensation
+1. **Remuneração e incentivos** — competitivo pay, equity, variable compensação
 2. **Oportunidades de crescimento** — career pathways, learning & development
 3. **Ambiente de trabalho** — localização, infraestrutura, tecnologia
 4. **Cultura e valores** — diversidade, inclusão, propósito organizacional
-5. **Bem-estar e equilíbrio** — benefits, flexibilidade, saúde mental
+5. **Bem-estar e equilíbrio** — benefícios, flexibilidade, saúde mental
 6. **Impacto e significado** — como o trabalho contribui para a sociedade
 
 ### 2.3 Importância Estratégica
 
-Estudos quantitativos demonstram consistentemente o impacto business da EVP:
+Estudos quantitativos demonstram consistentemente o impacto negócio da EVP:
 
 - Organizações com EVP claramente articulada experimentam **50% mais aplicações qualificadas** (LinkedIn Talent Trends, 2020)
 - Colaboradores que compreendem sua EVP apresentam **30% mais engajamento** (Gallup, 2022)
 - O custo deturnover em organizações com EVP fraca é **25% superior** ao de organizações com EVP estruturada (SHRM, 2021)
-- **71% dos candidatos** globais research employers antes de se candidatar (Harvard Business Review, 2023)
+- **71% dos candidatos** globais pesquisam empregadores antes de se candidatar (Harvard Business Review, 2023)
 
 ---
 
@@ -113,7 +113,7 @@ Estudos quantitativos demonstram consistentemente o impacto business da EVP:
 
 ### 3.1 A Pesquisa McKinsey (2017)
 
-Em 2017, a **McKinsey & Company** published um estudo de largo impacto que correlacionou pela primeira vez de forma sistemática a qualidade da experiência do empregado com o desempenho financeiro das organizações. O estudo envolveu mais de **800.000 respondentes** em múltiplos países e setores.
+Em 2017, a **McKinsey & Company** publicou um estudo de largo impacto que correlacionou pela primeira vez de forma sistemática a qualidade da experiência do empregado com o desempenho financeiro das organizações. O estudo envolveu mais de **800.000 respondentes** em múltiplos países e setores.
 
 A conclusão central foi intrigante e provocadora:
 
@@ -151,21 +151,21 @@ Estudos subsequentes da McKinsey refinarram o modelo:
 
 ### 4.1 Caso HubSpot: O CULTURE CODE
 
-A **HubSpot**, empresa de software de marketing digital headquartered em Cambridge, Massachusetts, tornou-se Referência global pela forma como codificou sua cultura e EVP no documento conhecido como **"Culture Code"**.
+A **HubSpot**, empresa de software de marketing digital sediada em Cambridge, Massachusetts, tornou-se Referência global pela forma como codificou sua cultura e EVP no documento conhecido como **"Culture Code"**.
 
 #### Contexto:
 
-Fundada em 2006 por Brian Halligan e Dharmesh Shah, a HubSpot cresceu de startup a empresa de capital aberto (NYSE: HUBS) com mais de 7.000 colaboradores globally. Seu Culture Code, inicialmente creado como deck interno em 2012 e posteriormente tornado público, acumula dezenas de milhões de visualizações.
+Fundada em 2006 por Brian Halligan e Dharmesh Shah, a HubSpot cresceu de startup a empresa de capital aberto (NYSE: HUBS) com mais de 7.000 colaboradores globalmente. Seu Culture Code, inicialmente creado como deck interno em 2012 e posteriormente tornado público, acumula dezenas de milhões de visualizações.
 
 #### Os 7 Valores Fundamentais do Culture Code:
 
 1. **Autonomia com Responsabilidade** — empowerment com accountability
 2. **Transparência Radical** — default to open (com exceções estratégicas)
-3. **Construção de Produtos que Amamos** — customer Obsession
+3. **Construção de Produtos que Amamos** — customer obsessão
 4. **Aprendizagem e Crescimento Constante** — pessoal e profissional
 5. **Diversão + Profundidade** — "we believe work can be both serious and playful"
 6. **Cuidado com os Outros** — Genuine care para empleados e customers
-7. **Caminho Correto** — integridade above short-term gain
+7. **Caminho Correto** — integridade acima do ganho de curto prazo
 
 #### Mecanismos de operacionalização:
 
@@ -175,36 +175,36 @@ Fundada em 2006 por Brian Halligan e Dharmesh Shah, a HubSpot cresceu de startup
 | **Glassdoor como KPI** | Gestão acompanha ativamente notas do Glassdoor como metric de saúde organizacional |
 | **"Inbound" applied to HR** | O inbound marketing philosophy aplicado ao recruiting: criar atrativos para que candidatos venham até nós |
 | **Remote-first flexibility** | Long before COVID, já ofereciam remote work options |
-| **"Growth" mentality** | Cada colaborador encouraged a desenvolver-se e perseguir promoções internamente |
+| **"Growth" mentality** | Cada colaborador incentivado a desenvolver-se e perseguir promoções internamente |
 
 #### Resultados Financeiros:
 
-- Em 2023, a HubSpot reportou revenue de **$2.1 bilhões** (+30% YoY)
+- Em 2023, a HubSpot reportou receita de **$2.1 bilhões** (+30% a/a)
 - A ação triplicou de valor entre 2020 e 2023
-- A empresa consistentemente ranked among **Fortune's "Best Places to Work"**
+- A empresa consistentemente classificada among **Fortune's "Best Places to Work"**
 - Glassdoor rating consistentemente above **4.5/5**
 
-O caso HubSpot é particularmente relevante porque demonstra que o Culture Code não é um documento aspiracional — é um **sistema operacionalizável** que impacta decisões concretas de contratação, promoção, compensation e demissão.
+O caso HubSpot é particularmente relevante porque demonstra que o Culture Code não é um documento aspiracional — é um **sistema operacionalizável** que impacta decisões concretas de contratação, promoção, compensação e demissão.
 
 ---
 
 ### 4.2 Caso Gympass: Employer Brand como Vantagem Competitiva
 
-O **Gympass** (atualmente conhecido como **Wellhub** após rebranding em 2023) ofrece um caso brasileiro (e posteriormente global) particularmente instrativo sobre como uma empresa pode usar sua própria proposta de valor para transformar seu modelo de negócio em vantagem competitiva no recrutamento.
+O **Gympass** (atualmente conhecido como **Wellhub** após rebranding em 2023) ofrece um caso brasileiro (e posteriormente global) particularmente instrutivo sobre como uma empresa pode usar sua própria proposta de valor para transformar seu modelo de negócio em vantagem competitiva no recrutamento.
 
 #### Contexto:
 
- Fundada em 2012 no Brasil por José Ferrari, Bernardo闪烁 e Cecilie Tenger, a Gympass criou um modelo de agregador de academias: uma assinatura única dá acesso a centenas de academias parceiras. O modelo B2B2C posicionava empresas como clientes principais, que ofereceriam o benefício aos colaboradores.
+ Fundada em 2012 no Brasil por José Ferrari, Bernardo e Cecilie Tenger, a Gympass criou um modelo de agregador de academias: uma assinatura única dá acesso a centenas de academias parceiras. O modelo B2B2C posicionava empresas como clientes principais, que ofereceriam o benefício aos colaboradores.
 
 #### A Proposta de Valor Internamente:
 
-A company enfrentou o desafio de recrutar talentos em tecnologia em um mercado altamente competitivo (Brazil vs. concorrentes globais como Google, Amazonas, Mercado Livre). Para competir, desenvolveu uma EVP distinctive:
+A company enfrentou o desafio de recrutar talentos em tecnologia em um mercado altamente competitivo (Brazil vs. concorrentes globais como Google, Amazonas, Mercado Livre). Para competir, desenvolveu uma EVP distintiva:
 
-1. **Impacto direto** — Bebeficiários finais são empleados das empresas clientes, criando propósito social
-2. **Equity culture** — Todos os funcionarios recebiam stock options, independentede nível hierárquico
+1. **Impacto direto** — Beneficiários finais são empleados das empresas clientes, criando propósito social
+2. **Equity culture** — Todos os funcionarios recebiam stock options, independentemente de nível hierárquico
 3. **Flexibilidade radical** — Remote-first work, horários flexíveis, "no-meeting Fridays"
-4. **Wellbeing emphasis** — A própria plataforma Gympass era oferecidos免费a a tutti i collaboratori (e familiares)
-5. **Crescimento acelerado** — Política de promoção interna e investimentos pesado em training
+4. **Wellbeing emphasis** — A própria plataforma Gympass era oferecida gratuitamente a todos os colaboradores (e familiares)
+5. **Crescimento acelerado** — Política de promoção interna e investimentos pesado em treinamento
 
 #### Employer Brand Externamente:
 
@@ -215,16 +215,16 @@ A Gympass investiu massivamente em employer branding:
 
 #### Resultado:
 
-- De 2012 a 2022, grew from 4 founders a **mais de 4.000 funcionários** em 12 países
+- De 2012 a 2022, cresceu from 4 founders a **mais de 4.000 funcionários** em 12 países
 - Alcançou valuation de **$2.2 bilhões** (Serie G, 2021), tornando-se unicórnio
-- Tornou-se uma das maiores plataformas de employee benefits do mundo
+- Tornou-se uma das maiores plataformas de employee benefícios do mundo
 - Em 2023, mudou de marca para **Wellhub** para reflejar a expansão para além de fitness
 
 #### Lições Aprendidas:
 
 - Uma empresa de wellbeing deve ter wellbeing Exemplar para seus propios empleados — caso contrário, perde credibilidade
 - O employer brand deve ser autêntico: políticas de fachada são facilmente desmascaradas em eras de transparência digital
-- A combinação de propósito + equity + flexibilidade pode compensar salaries menoresOfferings para competir com big tech
+- A combinação de propósito + equity + flexibilidade pode compensar salaries menoresOfertas para competir com big techs
 
 ---
 
@@ -235,13 +235,13 @@ A Gympass investiu massivamente em employer branding:
 | Indicador | Dado | Fonte |
 |---|---|---|
 | Impacto em Application rates | 75% dos candidatos digitals são mais propensos a candidatar-se a empresas com marca empregadora forte | LinkedIn Talent Trends, 2023 |
-| Custo deRecrutamento | Employer brand forte reduz custo por candidato hired em até **50%** | SHRM, 2022 |
-| Retenção de Talento | Organizações com EVP clearly articulada retêm **30% mais funcionários** após 2 anos | Gallup, 2023 |
-| Engajamento |Colaboradores que чувствовуют connection com a marca empregadora são **3x mais productivos** | Microsoft Work Trends, 2022 |
-| Employer Brand e Revenue | Empresas no quartile superior de employer brand apresentam **4x mais revenue growth** | Forbes, 2023 |
-| Glassdoor & Stock | Aumenntwert des Glasmdoor ratings em 1 pontoAssociates-se a **+0.5%** em stock performance mensal | MIT Sloan Management Review, 2021 |
+| Custo de Recrutamento | Employer brand forte reduz custo por candidato hired em até **50%** | SHRM, 2022 |
+| Retenção de Talento | Organizações com EVP claramente articulada retêm **30% mais funcionários** após 2 anos | Gallup, 2023 |
+| Engajamento |Colaboradores que sentem conexão com a marca empregadora são **3x mais produtivos** | Microsoft Work Trends, 2022 |
+| Marca Empregadora e Receita | Empresas no quartile superior de employer brand apresentam **4x mais revenue growth** | Forbes, 2023 |
+| Glassdoor & Stock | Valor do Glassdoor ratings em 1 pontoAssociates-se a **+0.5%** em stock performance mensal | MIT Sloan Management Review, 2021 |
 | Brand Ambassadors | 94% dos colaboradores satisfeitos compartilham empregador em redes sociais vs. 23% dos insatisfeitos | Brandwatch, 2022 |
-|主动流动率 | Organizations with poor employer brand experimentam **18% mais turnover voluntário** | Deloitte, 2022 |
+|taxa de mobilidade voluntária | Organizations with poor employer brand experimentam **18% mais turnover voluntário** | Deloitte, 2022 |
 | Productivity Link | Colaboradores com alta EX são **41% mais produtivos** (medidos por output real) | McKinsey, 2023 update |
 | Employer Choice | 78% dos profissionais tech rejeitaram ofertas por causa de má reputação de marca empregadora | TechCareers, 2023 |
 
@@ -262,7 +262,7 @@ Glassdoor/avaliações melhoram
         ↓
 Marca Emplegadora se fortalece ainda mais
         ↓
-Investor returns improve
+Os retornos para investidores melhoram
 ```
 
 ---
@@ -273,7 +273,7 @@ Investor returns improve
 
 **Ambler, T. & Barrow, S.** (2009). The Employer Brand. *Journal of Brand Management*, 4(3), 177-196. doi:10.1057/bm.1996.10
 
-**Armstrong, M. & Taylor, S.** (2020). *Armstrong's Handbook of Human Resource Management Practice* (15th ed.). London: Kogan Page.
+**Armstrong, M. & Taylor, S.** (2020). *Armstrong's Handbook of Human Refonte Management Practice* (15th ed.). London: Kogan Page.
 
 **Berard, R. & Pabon, J.** (1992). *Managing Compensation and Benefits*. Lakeforest, IL: Performance Holdings.
 
@@ -295,7 +295,7 @@ Investor returns improve
 
 **LinkedIn** (2023). *Global Talent Trends Report*. LinkedIn Corporation.
 
-**SHRM** (2022). *The Economic Value of Employer Branding*. Society for Human Resource Management.
+**SHRM** (2022). *The Economic Value of Employer Branding*. Society for Human Refonte Management.
 
 **Microsoft** (2022). *Work Trend Index: Annual Report*. Microsoft Corporation.
 
@@ -309,7 +309,7 @@ Investor returns improve
 
 **Michaels, E., Handfield-Jones, H. & Axelrod, B.** (2001). *The War for Talent*. Boston: Harvard Business School Press.
 
-**Sullivan, J.** (2004). Eight Elements of a Successful Employer Brand. *ER血肉 Workforce Management*, 83(1), 28-33.
+**Sullivan, J.** (2004). Eight Elements of a Successful Employer Brand. *Erro Workforce Management*, 83(1), 28-33.
 
 ### 6.4 Casos de Estudo
 
@@ -321,11 +321,11 @@ Investor returns improve
 
 ## 7. Síntese Integrativa
 
-A演进 do conceito de marca empregadora — desde a conceptualização pioneira de Simon Barrow em 1996, passando pelo modelo de Total Rewards de Berard & Pabon (1992), até aos estudos contemporâneos de McKinsey sobre Employee Experience — revela uma maturação teórica que acompanhou transformações estruturais no mercado de trabalho.
+A evolução do conceito de marca empregadora — desde a conceptualização pioneira de Simon Barrow em 1996, passando pelo modelo de Total Rewards de Berard & Pabon (1992), até aos estudos contemporâneos de McKinsey sobre Employee Experience — revela uma maturação teórica que acompanhou transformações estruturais no mercado de trabalho.
 
-Os dados empíricos são Clear: **organizações que investem estrategicamente em sua marca empregadora e em uma EVP articulated obtain.results financially superiores**. O caso HubSpot demonstra que a codificação da cultura em documentos operativos (o Culture Code) pode ser uma source de vantagem competitiva sustentável. O caso Gympass ilustra como uma empresa brasileira pode competir no escenario global leveraging sua própria proposta de valor ao empregado.
+Os dados empíricos são Clear: **organizações que investem estrategicamente em sua marca empregadora e em uma EVP articulada obtém.results financially superiores**. O caso HubSpot demonstra que a codificação da cultura em documentos operativos (o Culture Code) pode ser uma fonte de vantagem competitiva sustentável. O caso Gympass ilustra como uma empresa brasileira pode competir no cenário global leveraging sua própria proposta de valor ao empregado.
 
-Em síntese, a marca empregadora dejó de ser um elemento periférico da gestão de pessoas — é hoy um **imperativo estratégico** que impacta diretamente na capacidade de atrair, reter e desenvolver os talentos que, em última instância, determinam o sucesso financiero de cualquier organização.
+Em síntese, a marca empregadora dejó de ser um elemento periférico da gestão de pessoas — é hoy um **imperativo estratégico** que impacta diretamente na capacidade de atrair, reter e desenvolver os talentos que, em última instância, determinam o sucesso financeiro de qualquer organização.
 
 ---
 
