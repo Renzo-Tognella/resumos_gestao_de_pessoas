@@ -166,11 +166,49 @@ A carreira sem fronteiras dialoga diretamente com o modelo integrado de GP discu
 
 ---
 
+## 9.5. Abertura cinematográfica (exemplos culturais para engajar a turma)
+
+Filmes e séries são um atalho para colocar conceitos densos em imagens que a turma reconhece. A ideia aqui não é fazer review de cinema, mas usar cenas como **portas de entrada** para os conceitos. Pode ser usado em vinheta de abertura, no meio de cada slide, ou na provocação final.
+
+### Sugestões por conceito
+
+| Conceito | Filme / Série | Cena ou gancho para usar |
+|---|---|---|
+| **Mobilidade geográfica + nômade digital** | *Nomadland* (2020, Chloé Zhao) | Fran decide morar na van e trabalhar em empregos temporários pelo interior dos EUA. Serve para abrir a discussão: "isso é liberdade ou é o mercado empurrando as pessoas para a informalidade?" |
+| **Mudança radical de carreira** | *Chef* (2014, Jon Favreau) | Carl é chef renomado, perde o emprego fixo, recomeça do zero com um food truck. Conecta com mobilidade funcional e o valor da identidade sobre o cargo. |
+| **Carreira tradicional em crise** | *Up in the Air* (2009, Jason Reitman) | Ryan Bingham (George Clooney) vive voando, demitindo pessoas, sem apego. A vida toda é mobilidade — e ele descobre que isso não basta. Serve como contraponto: "mobilidade extrema sem propósito é vazia". |
+| **Empreendedorismo / startup** | *The Social Network* (2010, David Fincher) | Zuckerberg pivota de universitário a CEO em 2 anos. Mobilidade acelerada + rede + propósito. |
+| **Vínculo frágil / precarização** | *Que Horas Ela Volta?* (2015, Anna Muylaert) | Val trabalha como empregada doméstica na casa de uma família rica. A "carreira sem fronteiras" da patroa versus o vínculo fixo (mas sem mobilidade) da empregada. Excelente para abrir a discussão sobre classe. |
+| **Mobilidade no Brasil** | *Central do Brasil* (1998, Walter Salles) | Dora e Josué cruzam o Nordeste em busca do pai do menino. Mobilidade geográfica como condição de existência, não como escolha. |
+| **Trabalho como identidade** | *Soul* (2020, Pixar) | Joe é professor de música que só se sente vivo no palco. A carreira proteana levada ao extremo: "ser ou fazer?". |
+| **Carreira com propósito** | *Ratatouille* (2007, Pixar) | Remy quer ser chef contra todas as estatísticas. Carreira proteana, mas também fortuna/azar. |
+| **Demissão em massa + transição** | *Segredos de um Funeral* / *The Big Short* (2015) | Brad Pitt e Christian Bale trabalhando entre o crash imobiliário de 2008. Mobilidade obrigatória em momento de crise. |
+| **Crítica ao trabalho moderno** | *Sorry to Bother You* (2018, Boots Riley) | Telemarketing, precarização, capitalismo. Conecta com "nem toda mobilidade é liberdade". |
+| **Empresa tech contemporânea** | *Silicon Valley* (HBO, 2014–2019) | A startup inteira é uma carreira sem fronteiras com humor. Ótimo para mostrar volatilidade de startup, diluição de equity, demissões em massa. |
+| **Mercado tech + IA** | *Severance* (Apple TV+, 2022+) | Separação literal entre vida pessoal e trabalho. Conecta com a discussão de propósito e identidade. |
+| **Trabalho de cuidado + gênero** | *Roma* (2018, Alfonso Cuarón) | Cleo, trabalhadora doméstica no México. Mobilidade zero formal, mas a vida inteira gira em torno de outros. Excelente para discutir quem pode ser "sem fronteiras" e quem não pode. |
+| **Recomeço tardio** | *The Intern* (2015, Nancy Meyers) | Ben Whitaker (De Niro), viúvo e aposentado, vira estagiário sênior numa startup de e-commerce fundada por Jules (Anne Hathaway). Mobilidade intergeracional. |
+| **Carreira como reinvenção** | *Julie & Julia* (2009, Nora Ephron) | Julie Powell muda de carreira ao começar um blog de culinária. Conecta com autogerenciamento da carreira. |
+| **Superação radical** | *The Pursuit of Happyness* (2006, Gabriele Muccino) | Chris Gardner (Will Smith) sai de sem-teto a estagiário a CEO. Carreira sem fronteiras como ascensão, mas também como necessidade. |
+| **Sair do script pré-determinado** | *O Show de Truman* (1998, Peter Weir) | Truman descobre que a vida inteira foi roteirizada. Símbolo de quem escolhe não seguir o plano traçado. |
+| **Sair de uma carreira estável** | *O Auto da Compadecida* (2000, Guel Arraes) | João Grilo e Chicó transitam entre golpes, fuga, sertão — mobilidade geográfica e funcional extrema. |
+
+### Vinheta de abertura sugerida (opcional, 1–2 min)
+
+> Antes de entrar nos slides 8–10, abre o bloco com uma **imagem estática de capa** e uma pergunta para a turma:
+>
+> *"Vocês se veem trabalhando 10 anos na mesma empresa? 5 anos? 2 anos? E quem aqui já pensou em largar tudo e fazer algo completamente diferente? O Nomadland, o The Social Network e o Chef são três filmes que retratam isso de jeitos bem distintos. Hoje a gente vai falar de carreira sem fronteiras — a ideia de que a sua trajetória profissional não precisa caber dentro de uma empresa, um cargo ou um país."*
+
+Se tiver projetor e som, dá para abrir com 30 segundos de uma cena (música de abertura do *Nomadland*, por exemplo) e só depois entrar nos slides. É barato, cria clima, e o professor provavelmente vai curtir.
+
+---
+
 ## 10. Pontos para a provocação com a turma
 
 - "Quem aqui já teve mais de dois empregos nos últimos cinco anos? E quem acha que vai ficar mais de cinco anos no emprego atual?"
 - "Mobilidade é liberdade ou é instabilidade? Depende do ponto de partida — e esse ponto de partida não é igual para todo mundo."
 - "A carreira sem fronteiras é uma escolha da nova geração ou uma exigência do mercado de trabalho atual?"
+- "Se você largasse tudo hoje e fosse fazer um food truck como o do filme *Chef*, o que seguraria você? E o que te daria coragem?"
 
 ---
 
