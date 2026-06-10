@@ -166,142 +166,140 @@ A carreira sem fronteiras dialoga diretamente com o modelo integrado de GP discu
 
 ---
 
-## 9.5. Slides prontos — Bloco Cultural (4 slides, ≈8 min)
+## 9.5. Slides prontos — Teoria (1–3) + Caso consolidado (4), ≈8 min
 
-A ordem abaixo cobre os 18 filmes/séries organizados em **4 slides temáticos**. Cada slide tem o conteúdo **visual** (o que aparece no projetor) e o **texto a ser falado** (cronometrado para ≈2 min em ritmo natural de apresentação). A vinheta de abertura está na seção 9.5.2.
+Estrutura: **slides 1, 2 e 3** constroem o conceito de "carreira sem fronteiras" explicando o contexto, os tipos de mobilidade, os novos vínculos e a relação com flexibilidade. **Slide 4** usa o filme *Nomadland* como caso que materializa tudo de uma vez só. A tabela de filmes alternativos fica como apêndice na 9.5.1.
 
 ---
 
-### 🟦 SLIDE 1 — "A carreira tradicional em xeque" (≈2 min)
+### 🟦 SLIDE 1 — TEÓRICO: "O que é carreira sem fronteiras" (≈2 min)
 
 **BULLETS (projetor):**
-- **Up in the Air (2009)** — George Clooney vive voando, sem vínculos
-- **Office Space (1999)** — A rebeldia do emprego convencional
-- **Severance (2022, Apple TV+)** — Separar vida e trabalho é solução?
-- **The Social Network (2010)** — De Harvard ao império em 2 anos
+- Definição: trajetória profissional que **transcende** uma única empresa, cargo ou país
+- Contexto: globalização + internet + trabalho digital mudaram o jogo
+- A empresa deixou de ser a dona da sua carreira — **você é**
+- Três pilares: autonomia, aprendizagem contínua, rede de contatos
+- Carreira sem fronteiras ≠ instabilidade: é **autogerenciamento deliberado**
 
 **O QUE FALAR:**
 
-> "Pra começar a conversa, eu trouxe quatro filmes que mostram o **fim da carreira tradicional** — aquela que a gente conhecia: estudar, entrar numa empresa, ficar lá trinta anos, aposentar.
+> "A gente começa pelo conceito: **o que é carreira sem fronteiras**. A definição mais simples é: é uma trajetória profissional que não cabe dentro de uma única empresa, cargo ou país. Em vez de você ser 'o analista da empresa X por 30 anos', você constrói uma trajetória que passa por várias organizações, setores e formatos — CLT, PJ, freelancer, sócio, consultor.
 >
-> O primeiro é **Up in the Air**, de 2009, com George Clooney. Ele é um cara que vive literalmente voando, cortando pessoas de empresas todos os dias, sem apego, sem casa, sem laço. E o filme vai mostrando que essa vida de 'liberdade total' é uma armadilha emocional. Ele tem pontos de viagem, mas não tem ponto de vida.
+> Esse jeito de entender a carreira ficou popular nos anos 90, quando duas coisas mudaram ao mesmo tempo. A **globalização** fez as empresas competirem em escala global, então o mercado de trabalho deixou de ser 'a minha cidade' e passou a ser 'o mundo'. E a **internet** barateou o acesso à informação, então o conhecimento deixou de ser monopólio das empresas — qualquer um podia aprender o que quisesse, em qualquer lugar.
 >
-> O **Office Space**, de 1999, é mais leve, quase uma comédia, mas ele acerta em cheio no incômodo: aquele cara que vai pro escritório todo dia, odeia o que faz, e a gente ri porque se reconhece.
+> O resultado prático é que **o profissional virou o protagonista da própria carreira**. Antes, era a empresa que dizia 'você vai ser gerente em 5 anos, diretor em 10'. Hoje, é o profissional que monta o próprio plano, escolhe onde quer estar, e negocia com empresas — não o contrário.
 >
-> **Severance**, da Apple TV+, é mais recente e mais perturbador. Num futuro próximo, a cirurgia de 'severance' permite separar completamente a memória do trabalho da vida pessoal. A pergunta que o filme faz é: até que ponto separar vida e trabalho é solução ou é só uma forma de fugir do problema?
+> E pra isso funcionar, três pilares viraram obrigatórios. O primeiro é **autonomia** — pra tomar decisões sem precisar esperar aprovação de chefia. O segundo é **aprendizagem contínua** — porque tudo muda rápido, e quem para de estudar fica obsoleto em 3 anos. E o terceiro é **rede de contatos** — porque no mercado atual, muita vaga nem é publicada em site de emprego, vem por indicação.
 >
-> E pra fechar esse bloco, **The Social Network**, de 2010, o filme do Facebook. Mark Zuckerberg saiu de Harvard e em dois anos estava entre os mais ricos do mundo. É o exemplo extremo do que acontece quando a carreira para de seguir trilho e passa a ser uma montanha-russa.
->
-> O que esses quatro filmes têm em comum? Todos mostram que **a carreira de antigamente já acabou**. E aí a gente se pergunta: se a carreira tradicional morreu, o que nasceu no lugar? É o que a gente vai ver no próximo slide."
+> Um ponto importante: carreira sem fronteiras **não é sinônimo de instabilidade**. É uma escolha **deliberada** de autogerenciamento. Tem gente que prefere carreira linear e tá tudo bem. A diferença é que, no modelo novo, a trajetória é desenhada pelo profissional, não pela empresa."
 
 ---
 
-### 🟦 SLIDE 2 — "Mobilidade geográfica e mobilidade de identidade" (≈2 min)
+### 🟦 SLIDE 2 — TEÓRICO: "Mobilidade, nomadismo e os três tipos" (≈2 min)
 
 **BULLETS (projetor):**
-- **Nomadland (2020)** — Frances McDormand vive na van
-- **Central do Brasil (1998)** — Dora e Josué cruzam o Nordeste
-- **The Beach (2000)** — DiCaprio em busca do paraíso
-- **O Show de Truman (1998)** — Sair do script pré-determinado
+- **Mobilidade funcional**: mudar de função, área ou setor
+- **Mobilidade geográfica**: mudar de cidade, país, ou virar nômade
+- **Mobilidade de identidade**: redefinir quem você é profissionalmente
+- **Nomadismo digital**: trabalho remoto + viagem, sem endereço fixo
+- Explosão: ~7 milhões de nômades digitais no mundo (2019) → ~40 milhões (2023)
+- Tudo isso junto = a tal **carreira sem fronteiras** funcionando na prática
 
 **O QUE FALAR:**
 
-> "Agora, vamos falar de **mobilidade** — e não é só mudar de cidade, é mudar de vida. Quatro filmes pra pensar isso.
+> "Agora, vamos falar de **mobilidade** — e a palavra é mais ampla do que parece. Existem três tipos de mobilidade que a carreira sem fronteiras engloba, e a carreira boa combina os três.
 >
-> **Nomadland**, de 2020, é talvez o filme mais emblemático dessa discussão. Frances McDormand perde o emprego, a casa, e decide viver numa van, trabalhando em empregos temporários pelo meio-oeste americano. É liberdade? É precarização? O filme não responde — e isso é o mais honesto dele.
+> A primeira é a **mobilidade funcional**: você muda de função, de área, de especialidade. Um designer vira gerente de produto, um engenheiro vira CTO, um jornalista vira marqueteiro. Não é 'trocar de emprego' — é trocar de identidade profissional. Estudos recentes mostram que o profissional atual troca de área funcional em média 3 a 4 vezes ao longo da carreira.
 >
-> **Central do Brasil**, de 1998, é o nosso filme brasileiro nessa lista. Dora é uma ex-professora que escreve cartas na rodoviária do Rio pra pessoas analfabetas. Quando o emprego acaba, ela parte com o menino Josué pelo Nordeste em busca do pai dele. Mobilidade aqui não é escolha — é condição de existência.
+> A segunda é a **mobilidade geográfica**: mudar de cidade, de país, ou — o caso mais radical — virar **nômade digital**. Nômade digital é quem trabalha remoto enquanto viaja pelo mundo, geralmente sem endereço fixo. A comunidade global de nômades digitais era estimada em 7 milhões em 2019 e pulou pra cerca de 40 milhões em 2023 — uma explosão puxada pela pandemia e pela digitalização do trabalho. Hoje, Bali, Lisboa e Cidade do México são hubs famosos de nômades.
 >
-> **The Beach**, com Leonardo DiCaprio, é o outro lado: um jovem ocidental que larga tudo pra viver numa comunidade isolada na Tailândia. No começo parece liberdade, mas o filme mostra como o paraíso também vira prisão quando você não tem mais pra onde voltar.
+> A terceira, e talvez a mais profunda, é a **mobilidade de identidade**: a capacidade de **redefinir quem você é profissionalmente**, às vezes várias vezes na vida. Aos 25, você pode se ver como 'estagiário'. Aos 35, como 'especialista'. Aos 50, como 'mentor' ou 'empresário'. Essa mobilidade é interna — não é mudar de lugar, é mudar de papel. E é a que mais desafia a nossa cabeça.
 >
-> E pra fechar, **O Show de Truman**, de 1998. Truman vive numa cidade perfeita, mas é tudo um cenário. No final, ele bate no muro e decide sair. É a metáfora mais clara do que a gente vai discutir aqui: **sair do script pré-determinado**, mesmo que você não saiba o que tem do outro lado.
->
-> Esses filmes mostram que mobilidade não é só geográfica — é também **mobilidade de identidade**. E essa ideia conecta direto com o conceito de 'carreira sem fronteiras' que a gente vai aprofundar no próximo slide."
+> A carreira sem fronteiras, na prática, é a combinação dessas três mobilidades. Não é só mudar de função OU mudar de cidade. É tudo junto, ao longo da vida. É o que a gente chama de 'carreira portfólio'."
 
 ---
 
-### 🟦 SLIDE 3 — "Recomeço e empreendedorismo" (≈2 min)
+### 🟦 SLIDE 3 — TEÓRICO: "Novos vínculos, flexibilidade e gig economy" (≈2 min)
 
 **BULLETS (projetor):**
-- **Chef (2014)** — Favreau larga chefão, recomeça com food truck
-- **The Intern (2015)** — De Niro, 70 anos, vira estagiário em startup
-- **The Pursuit of Happyness (2006)** — De sem-teto a CEO
-- **Julie & Julia (2009)** — Um blog vira nova carreira
-- **Silicon Valley (HBO, 2014–2019)** — A comédia da volatilidade startup
+- Carreira tradicional: 1 emprego + 1 vínculo + 1 salário + benefícios
+- Hoje: **múltiplos vínculos** ao mesmo tempo (CLT + freela + sócio + mentoria)
+- **Gig economy**: trabalhos pontuais, sob demanda, mediados por app
+- **Vínculos líquidos**: relação de curto prazo, baixa lealdade recíproca
+- A flexibilidade tem **dois lados**: liberdade **e** insegurança
+- Brasil: ~38% dos trabalhadores são informais ou por conta própria (IBGE, 2022)
 
 **O QUE FALAR:**
 
-> "Esse é o lado **esperança** da conversa. Cinco filmes sobre recomeço e empreendedorismo.
+> "Agora, o terceiro eixo: **os novos vínculos**. A carreira tradicional era simples: 1 emprego fixo, 1 vínculo empregatício, 1 salário por mês, plano de saúde, vale-refeição, férias remuneradas. Era tudo amarrado num único contrato de trabalho.
 >
-> **Chef**, de 2014, é a história que eu mais gosto de contar. Um chef de cozinha que trabalha num restaurante importante, comanda a cozinha, mas perde o controle criativo. Um dia ele surta, briga com o crítico, pede demissão, e recomeça do zero com um food truck. É literalmente uma metáfora de carreira: às vezes, voltar pra um projeto menor, com mais autonomia, vale mais do que a cadeira grande.
+> O modelo novo é mais fragmentado. Um profissional pode ter, ao mesmo tempo, **múltiplos vínculos**: um contrato CLT meio período, três clientes como freelancer, uma sociedade numa startup, e uma atividade de mentoria. Tudo junto, tudo na mesma semana. A renda vem de várias fontes, e o portfólio profissional é diverso.
 >
-> **The Intern**, com Robert De Niro, mostra o inverso. Um senhor de 70 anos, viúvo, aposentado, decide se candidatar a uma vaga de estagiário numa startup de moda online. Ele é o mais velho da sala. E funciona. O filme mostra que recomeço não tem idade.
+> Dentro disso, surgiu a **gig economy** — trabalhos pontuais, sob demanda, mediados por aplicativo. Motorista de Uber, entregador de iFood, designer que pega jobs no 99designs, programador que faz freela na Workana. São trabalhos curtos, sem vínculo, sem garantia de continuidade. O IBGE mostrou que, em 2022, cerca de 38% dos trabalhadores brasileiros já estavam em alguma forma de trabalho informal ou por conta própria — é um número enorme, e ele cresce a cada ano.
 >
-> **The Pursuit of Happyness**, com Will Smith, é baseado em história real. Um vendedor que perdeu tudo — casa, esposa, dinheiro — vai pra São Francisco com o filho pequeno, consegue um estágio não-remunerado numa corretora, e em um ano vira um dos maiores corretores de Wall Street. É o filme do 'não tem nada a perder'.
+> Os pesquisadores chamam esses novos vínculos de **vínculos líquidos**: relações de curto prazo, com baixa lealdade recíproca. A empresa não te promete nada, e você não deve nada a ela. É uma troca fria, mas muito flexível. O sociólogo polonês Zygmunt Bauman batizou essa era de **modernidade líquida** — onde tudo é volátil, inclusive o trabalho.
 >
-> **Julie & Julia** é mais leve: uma mulher entediada resolve passar um ano cozinhando todas as receitas de um livro, e transforma isso num blog que viraliza. O blog vira livro, o livro vira filme. É a carreira nascendo de um hobby.
->
-> E **Silicon Valley**, série da HBO de 2014 a 2019, é a comédia da turma do Vale do Silício. Mas por baixo da piada, ela mostra muito bem a volatilidade de startup — demissões em massa, equity que vira pó, CEO que é demitido pelo próprio conselho. É a carreira sem fronteiras na vida real, com humor.
->
-> O que esses cinco têm em comum? **A coragem de pivotar**. E aí vem a pergunta: será que esse espírito é pra todo mundo? É o que o último slide vai problematizar."
+> E aqui entra o ponto mais importante: **a flexibilidade tem dois lados**. De um lado, é liberdade — você escolhe onde, quando e com quem trabalhar. De outro, é **insegurança** — sem rede de proteção, sem plano de saúde garantido, sem estabilidade pra financiar um carro ou um apartamento. O sociólogo Richard Sennett escreveu o livro *A Corrosão do Caráter* justamente pra mostrar como o capitalismo flexível corrói a segurança do trabalhador. É exatamente essa tensão — liberdade versus precarização — que o último slide vai materializar com um único filme."
 
 ---
 
-### 🟦 SLIDE 4 — "O outro lado: crítica e reflexão" (≈2 min)
+### 🟦 SLIDE 4 — CASO: "Nomadland — tudo isso numa van só" (≈2 min)
 
 **BULLETS (projetor):**
-- **Sorry to Bother You (2018)** — Telemarketing, precarização, sindicalização
-- **Roma (2018)** — Cleo, a mobilidade zero da trabalhadora doméstica
-- **Que Horas Ela Volta? (2015)** — Brasil, duas mobilidades numa casa só
-- **Soul (2020, Pixar)** — Ser ou fazer? A carreira como sentido
-- **Ratatouille (2007)** — "Nem todo mundo pode ser grande, mas todo mundo pode ser genial"
+- **Filme:** *Nomadland* (2020), Chloé Zhao, Frances McDormand — Oscar 2021
+- **Fern, 60+:** perde emprego e casa quando a fábrica da cidade fecha
+- **Mobilidade geográfica:** mora numa van, cruza os EUA
+- **Mobilidade funcional:** trabalhos temporários (Amazon, acampamentos, estacionamentos)
+- **Mobilidade de identidade:** redefine quem ela é — "não sou mais a funcionária da fábrica, sou a Fern"
+- **Vínculos líquidos:** amigos de estrada, sem endereço, sem rede de proteção
+- **A pergunta que fica:** liberdade ou precarização? **O filme não responde — e isso é o mais honesto dele**
 
 **O QUE FALAR:**
 
-> "Agora, a parte **desconfortável** da conversa. Cinco filmes que mostram o lado que ninguém quer ver.
+> "Pra fechar o bloco, eu escolhi **um único filme** que materializa tudo o que a gente conversou nos três slides anteriores. É o **Nomadland**, de 2020, dirigido pela Chloé Zhao, com a Frances McDormand — ganhou o Oscar de melhor direção e de melhor atriz em 2021.
 >
-> **Sorry to Bother You**, de 2018, é a crítica mais feroz dessa lista. Lakeith Stanfield trabalha de telemarketing, e quando descobre que os colegas estão sindicalizando, ele vira o vilão da empresa. O filme fala de precarização, de sindicato, de até onde a gente vai pra sobreviver. É o lado feio da tal 'flexibilidade'.
+> A personagem principal, a **Fern**, tem mais de 60 anos e trabalhou a vida inteira numa fábrica de gesso numa cidade pequena nos Estados Unidos. Aí a fábrica fecha — a empresa terceirizou a produção pra China —, a cidade vira quase um deserto, e ela perde o emprego e a casa ao mesmo tempo. **Esse é o fim da carreira tradicional acontecendo com uma pessoa real** — é o slide 1 em carne e osso.
 >
-> **Roma**, do Alfonso Cuarón, é um filme mexicano que ganhou Oscar. Sem quase nenhuma fala, ele acompanha uma empregada doméstica — Cleo — que cuida da casa, lava a roupa, dá comida pros cachorros. E tem uma vida própria que ninguém enxerga. A pergunta que fica é: pra essa trabalhadora, onde está a mobilidade de carreira? **Mobilidade zero** — e isso não é escolha, é estrutura social.
+> A resposta da Fern é a carreira sem fronteiras em estado puro. Ela transforma a van em casa — **mobilidade geográfica total**, ela cruza os Estados Unidos inteiros. Em cada parada, ela pega um trabalho temporário — na Amazon, em acampamentos, em estacionamentos — **mobilidade funcional**, ela aprende coisas novas o tempo todo. E aos 60 anos, ela se redefine como pessoa: não é mais 'a funcionária da fábrica', é a Fern, nômade, autogerenciada. **Mobilidade de identidade** completa.
 >
-> **Que Horas Ela Volta?**, de 2015, da Anna Muylaert, é o nosso filme brasileiro aqui. Jéssica fica anos cuidando da casa dos patrões em São Paulo, e quando a filha dela, Val, aparece pra fazer vestibular, as duas mobilidades se chocam. Val tem escolha, Jéssica tem dever. É a carreira sem fronteiras vista de baixo pra cima.
+> E os **vínculos** são líquidos: ela tem amigos, mas são amigos de estrada, sem endereço fixo. Tem comunidade, mas é uma comunidade nômade. Tem trabalho, mas é trabalho temporário, sem plano de saúde, sem 13º, sem rede de proteção. **É o slide 3 acontecendo**.
 >
-> **Soul**, da Pixar, é um desenho, mas é talvez a reflexão mais profunda da lista. Um pianista de jazz morre antes de fazer o grande show da vida dele, e aí ele precisa decidir: voltar e tocar, ou aceitar que talvez a carreira não seja o sentido da vida? O filme mostra que a 'faísca' não é talento — é o **gosto de estar vivo**.
+> O mais bonito do filme é o que ele **não responde**. A gente sai do cinema sem saber se a Fern é livre ou está precarizada. Ela está feliz com a van, mas a van quebrou no inverno. Ela tem amigos, mas não tem pra quem ligar se ficar doente. Ela recomeçou, mas a aposentadoria que não vai existir.
 >
-> E pra fechar, **Ratatouille**, de 2007. Um rato que cozinha. A frase que o crítico Anton Ego fala no final do filme é talvez a melhor definição de carreira que eu já ouvi: *'Nem todo mundo pode ser grande, mas todo mundo pode ser genial na sua especialidade.'*
->
-> A resposta curta é: a carreira sem fronteiras **não é pra todo mundo. Mas saber que ela existe já muda a forma como a gente olha pro próprio futuro.** Obrigado."
+> **E é exatamente essa a mensagem que eu quero deixar com vocês: a carreira sem fronteiras é real, é possível, mas não é pra todo mundo. Saber que ela existe já muda a forma como a gente olha pra si mesmo. E saber que ela tem custos também.** Obrigado."
 
 ---
 
-### 9.5.1. Tabela de referência — todos os 18 filmes
+### 9.5.1. Filmes alternativos (caso a banca/ professor peça outro exemplo)
+
+O slide 4 usa o **Nomadland** como caso consolidado. Os 17 filmes abaixo são **alternativas** — escolha um diferente se a banca já tiver visto o Nomadland, ou use um trecho curto (1-2 min) no meio de um slide teórico pra ilustrar um conceito.
 
 | Conceito | Filme / Série | Cena ou gancho para usar |
 |---|---|---|
-| **Mobilidade geográfica + nômade digital** | *Nomadland* (2020, Chloé Zhao) | Fran decide morar na van e trabalhar em empregos temporários pelo interior dos EUA. Serve para abrir a discussão: "isso é liberdade ou é o mercado empurrando as pessoas para a informalidade?" |
-| **Mudança radical de carreira** | *Chef* (2014, Jon Favreau) | Carl é chef renomado, perde o emprego fixo, recomeça do zero com um food truck. Conecta com mobilidade funcional e o valor da identidade sobre o cargo. |
-| **Carreira tradicional em crise** | *Up in the Air* (2009, Jason Reitman) | Ryan Bingham (George Clooney) vive voando, demitindo pessoas, sem apego. A vida toda é mobilidade — e ele descobre que isso não basta. Serve como contraponto: "mobilidade extrema sem propósito é vazia". |
+| **Mobilidade geográfica + nômade digital** | *Nomadland* (2020, Chloé Zhao) | Fran decide morar na van e trabalhar em empregos temporários pelo interior dos EUA. **Usado como caso principal no slide 4.** |
+| **Mudança radical de carreira** | *Chef* (2014, Jon Favreau) | Carl é chef renomado, perde o emprego fixo, recomeça do zero com um food truck. |
+| **Carreira tradicional em crise** | *Up in the Air* (2009, Jason Reitman) | Ryan Bingham (George Clooney) vive voando, demitindo pessoas, sem apego. Mobilidade extrema sem propósito. |
 | **Empreendedorismo / startup** | *The Social Network* (2010, David Fincher) | Zuckerberg pivota de universitário a CEO em 2 anos. Mobilidade acelerada + rede + propósito. |
-| **Vínculo frágil / precarização** | *Que Horas Ela Volta?* (2015, Anna Muylaert) | Val trabalha como empregada doméstica na casa de uma família rica. A "carreira sem fronteiras" da patroa versus o vínculo fixo (mas sem mobilidade) da empregada. Excelente para abrir a discussão sobre classe. |
-| **Mobilidade no Brasil** | *Central do Brasil* (1998, Walter Salles) | Dora e Josué cruzam o Nordeste em busca do pai do menino. Mobilidade geográfica como condição de existência, não como escolha. |
-| **Trabalho como identidade** | *Soul* (2020, Pixar) | Joe é professor de música que só se sente vivo no palco. A carreira proteana levada ao extremo: "ser ou fazer?". |
-| **Carreira com propósito** | *Ratatouille* (2007, Pixar) | Remy quer ser chef contra todas as estatísticas. Carreira proteana, mas também fortuna/azar. |
-| **Demissão em massa + transição** | *Segredos de um Funeral* / *The Big Short* (2015) | Brad Pitt e Christian Bale trabalhando entre o crash imobiliário de 2008. Mobilidade obrigatória em momento de crise. |
+| **Vínculo frágil / precarização** | *Que Horas Ela Volta?* (2015, Anna Muylaert) | Val trabalha como empregada doméstica. A "carreira sem fronteiras" da patroa versus o vínculo fixo da empregada. |
+| **Mobilidade no Brasil** | *Central do Brasil* (1998, Walter Salles) | Dora e Josué cruzam o Nordeste. Mobilidade geográfica como condição de existência, não como escolha. |
+| **Trabalho como identidade** | *Soul* (2020, Pixar) | Joe só se sente vivo no palco. Carreira proteana levada ao extremo: "ser ou fazer?". |
+| **Carreira com propósito** | *Ratatouille* (2007, Pixar) | Remy quer ser chef contra todas as estatísticas. |
 | **Crítica ao trabalho moderno** | *Sorry to Bother You* (2018, Boots Riley) | Telemarketing, precarização, capitalismo. Conecta com "nem toda mobilidade é liberdade". |
-| **Empresa tech contemporânea** | *Silicon Valley* (HBO, 2014–2019) | A startup inteira é uma carreira sem fronteiras com humor. Ótimo para mostrar volatilidade de startup, diluição de equity, demissões em massa. |
-| **Mercado tech + IA** | *Severance* (Apple TV+, 2022+) | Separação literal entre vida pessoal e trabalho. Conecta com a discussão de propósito e identidade. |
-| **Trabalho de cuidado + gênero** | *Roma* (2018, Alfonso Cuarón) | Cleo, trabalhadora doméstica no México. Mobilidade zero formal, mas a vida inteira gira em torno de outros. Excelente para discutir quem pode ser "sem fronteiras" e quem não pode. |
-| **Recomeço tardio** | *The Intern* (2015, Nancy Meyers) | Ben Whitaker (De Niro), viúvo e aposentado, vira estagiário sênior numa startup de e-commerce fundada por Jules (Anne Hathaway). Mobilidade intergeracional. |
-| **Carreira como reinvenção** | *Julie & Julia* (2009, Nora Ephron) | Julie Powell muda de carreira ao começar um blog de culinária. Conecta com autogerenciamento da carreira. |
-| **Superação radical** | *The Pursuit of Happyness* (2006, Gabriele Muccino) | Chris Gardner (Will Smith) sai de sem-teto a estagiário a CEO. Carreira sem fronteiras como ascensão, mas também como necessidade. |
-| **Sair do script pré-determinado** | *O Show de Truman* (1998, Peter Weir) | Truman descobre que a vida inteira foi roteirizada. Símbolo de quem escolhe não seguir o plano traçado. |
-| **Sair de uma carreira estável** | *O Auto da Compadecida* (2000, Guel Arraes) | João Grilo e Chicó transitam entre golpes, fuga, sertão — mobilidade geográfica e funcional extrema. |
+| **Empresa tech contemporânea** | *Silicon Valley* (HBO, 2014–2019) | Startup inteira é uma carreira sem fronteiras com humor. Volatilidade, equity, demissões. |
+| **Mercado tech + IA** | *Severance* (Apple TV+, 2022+) | Separação literal entre vida pessoal e trabalho. Conecta com a discussão de propósito. |
+| **Trabalho de cuidado + gênero** | *Roma* (2018, Alfonso Cuarón) | Cleo, trabalhadora doméstica. Mobilidade zero formal, vida gira em torno de outros. |
+| **Recomeço tardio** | *The Intern* (2015, Nancy Meyers) | Ben Whitaker (De Niro), viúvo e aposentado, vira estagiário sênior numa startup. |
+| **Carreira como reinvenção** | *Julie & Julia* (2009, Nora Ephron) | Julie Powell muda de carreira ao começar um blog de culinária. |
+| **Superação radical** | *The Pursuit of Happyness* (2006, Gabriele Muccino) | Chris Gardner (Will Smith) sai de sem-teto a estagiário a CEO. |
+| **Sair do script pré-determinado** | *O Show de Truman* (1998, Peter Weir) | Truman descobre que a vida inteira foi roteirizada. Símbolo de quem escolhe não seguir o plano. |
+| **Sair de uma carreira estável** | *O Auto da Compadecida* (2000, Guel Arraes) | João Grilo e Chicó transitam entre golpes, fuga, sertão. |
+| **Rebeldia do emprego convencional** | *Office Space* (1999, Mike Judge) | Comédia sobre o tédio do emprego de escritório. Perfeito pra abrir slide 1. |
 
 ### 9.5.2. Vinheta de abertura sugerida (opcional, 1–2 min antes do slide 1)
 
-> Antes de entrar no slide 1, abre o bloco com uma **imagem estática de capa** e uma pergunta para a turma:
+> Antes de entrar no slide 1, abre o bloco com uma **imagem estática de capa** (a Frances McDormand dentro da van iluminada) e uma pergunta para a turma:
 >
-> *"Vocês se veem trabalhando 10 anos na mesma empresa? 5 anos? 2 anos? E quem aqui já pensou em largar tudo e fazer algo completamente diferente? O Nomadland, o The Social Network e o Chef são três filmes que retratam isso de jeitos bem distintos. Hoje a gente vai falar de carreira sem fronteiras — a ideia de que a sua trajetória profissional não precisa caber dentro de uma empresa, um cargo ou um país."*
+> *"Vocês se veem trabalhando 10 anos na mesma empresa? 5 anos? 2 anos? E quem aqui já pensou em largar tudo e fazer algo completamente diferente? Hoje a gente vai falar de carreira sem fronteiras — a ideia de que a sua trajetória profissional não precisa caber dentro de uma empresa, um cargo ou um país. Pra fechar o bloco, a gente vai ver o caso da Fern, uma mulher de 60 anos que perdeu tudo e recomeçou a vida numa van."*
 
 Se tiver projetor e som, dá para abrir com 30 segundos de uma cena (música de abertura do *Nomadland*, por exemplo) e só depois entrar nos slides. É barato, cria clima, e o professor provavelmente vai curtir.
 
