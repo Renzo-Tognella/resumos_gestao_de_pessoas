@@ -166,11 +166,115 @@ A carreira sem fronteiras dialoga diretamente com o modelo integrado de GP discu
 
 ---
 
-## 9.5. Abertura cinematográfica (exemplos culturais para engajar a turma)
+## 9.5. Slides prontos — Bloco Cultural (4 slides, ≈8 min)
 
-Filmes e séries são um atalho para colocar conceitos densos em imagens que a turma reconhece. A ideia aqui não é fazer review de cinema, mas usar cenas como **portas de entrada** para os conceitos. Pode ser usado em vinheta de abertura, no meio de cada slide, ou na provocação final.
+A ordem abaixo cobre os 18 filmes/séries organizados em **4 slides temáticos**. Cada slide tem o conteúdo **visual** (o que aparece no projetor) e o **texto a ser falado** (cronometrado para ≈2 min em ritmo natural de apresentação). A vinheta de abertura está na seção 9.5.2.
 
-### Sugestões por conceito
+---
+
+### 🟦 SLIDE 1 — "A carreira tradicional em xeque" (≈2 min)
+
+**BULLETS (projetor):**
+- **Up in the Air (2009)** — George Clooney vive voando, sem vínculos
+- **Office Space (1999)** — A rebeldia do emprego convencional
+- **Severance (2022, Apple TV+)** — Separar vida e trabalho é solução?
+- **The Social Network (2010)** — De Harvard ao império em 2 anos
+
+**O QUE FALAR:**
+
+> "Pra começar a conversa, eu trouxe quatro filmes que mostram o **fim da carreira tradicional** — aquela que a gente conhecia: estudar, entrar numa empresa, ficar lá trinta anos, aposentar.
+>
+> O primeiro é **Up in the Air**, de 2009, com George Clooney. Ele é um cara que vive literalmente voando, cortando pessoas de empresas todos os dias, sem apego, sem casa, sem laço. E o filme vai mostrando que essa vida de 'liberdade total' é uma armadilha emocional. Ele tem pontos de viagem, mas não tem ponto de vida.
+>
+> O **Office Space**, de 1999, é mais leve, quase uma comédia, mas ele acerta em cheio no incômodo: aquele cara que vai pro escritório todo dia, odeia o que faz, e a gente ri porque se reconhece.
+>
+> **Severance**, da Apple TV+, é mais recente e mais perturbador. Num futuro próximo, a cirurgia de 'severance' permite separar completamente a memória do trabalho da vida pessoal. A pergunta que o filme faz é: até que ponto separar vida e trabalho é solução ou é só uma forma de fugir do problema?
+>
+> E pra fechar esse bloco, **The Social Network**, de 2010, o filme do Facebook. Mark Zuckerberg saiu de Harvard e em dois anos estava entre os mais ricos do mundo. É o exemplo extremo do que acontece quando a carreira para de seguir trilho e passa a ser uma montanha-russa.
+>
+> O que esses quatro filmes têm em comum? Todos mostram que **a carreira de antigamente já acabou**. E aí a gente se pergunta: se a carreira tradicional morreu, o que nasceu no lugar? É o que a gente vai ver no próximo slide."
+
+---
+
+### 🟦 SLIDE 2 — "Mobilidade geográfica e mobilidade de identidade" (≈2 min)
+
+**BULLETS (projetor):**
+- **Nomadland (2020)** — Frances McDormand vive na van
+- **Central do Brasil (1998)** — Dora e Josué cruzam o Nordeste
+- **The Beach (2000)** — DiCaprio em busca do paraíso
+- **O Show de Truman (1998)** — Sair do script pré-determinado
+
+**O QUE FALAR:**
+
+> "Agora, vamos falar de **mobilidade** — e não é só mudar de cidade, é mudar de vida. Quatro filmes pra pensar isso.
+>
+> **Nomadland**, de 2020, é talvez o filme mais emblemático dessa discussão. Frances McDormand perde o emprego, a casa, e decide viver numa van, trabalhando em empregos temporários pelo meio-oeste americano. É liberdade? É precarização? O filme não responde — e isso é o mais honesto dele.
+>
+> **Central do Brasil**, de 1998, é o nosso filme brasileiro nessa lista. Dora é uma ex-professora que escreve cartas na rodoviária do Rio pra pessoas analfabetas. Quando o emprego acaba, ela parte com o menino Josué pelo Nordeste em busca do pai dele. Mobilidade aqui não é escolha — é condição de existência.
+>
+> **The Beach**, com Leonardo DiCaprio, é o outro lado: um jovem ocidental que larga tudo pra viver numa comunidade isolada na Tailândia. No começo parece liberdade, mas o filme mostra como o paraíso também vira prisão quando você não tem mais pra onde voltar.
+>
+> E pra fechar, **O Show de Truman**, de 1998. Truman vive numa cidade perfeita, mas é tudo um cenário. No final, ele bate no muro e decide sair. É a metáfora mais clara do que a gente vai discutir aqui: **sair do script pré-determinado**, mesmo que você não saiba o que tem do outro lado.
+>
+> Esses filmes mostram que mobilidade não é só geográfica — é também **mobilidade de identidade**. E essa ideia conecta direto com o conceito de 'carreira sem fronteiras' que a gente vai aprofundar no próximo slide."
+
+---
+
+### 🟦 SLIDE 3 — "Recomeço e empreendedorismo" (≈2 min)
+
+**BULLETS (projetor):**
+- **Chef (2014)** — Favreau larga chefão, recomeça com food truck
+- **The Intern (2015)** — De Niro, 70 anos, vira estagiário em startup
+- **The Pursuit of Happyness (2006)** — De sem-teto a CEO
+- **Julie & Julia (2009)** — Um blog vira nova carreira
+- **Silicon Valley (HBO, 2014–2019)** — A comédia da volatilidade startup
+
+**O QUE FALAR:**
+
+> "Esse é o lado **esperança** da conversa. Cinco filmes sobre recomeço e empreendedorismo.
+>
+> **Chef**, de 2014, é a história que eu mais gosto de contar. Um chef de cozinha que trabalha num restaurante importante, comanda a cozinha, mas perde o controle criativo. Um dia ele surta, briga com o crítico, pede demissão, e recomeça do zero com um food truck. É literalmente uma metáfora de carreira: às vezes, voltar pra um projeto menor, com mais autonomia, vale mais do que a cadeira grande.
+>
+> **The Intern**, com Robert De Niro, mostra o inverso. Um senhor de 70 anos, viúvo, aposentado, decide se candidatar a uma vaga de estagiário numa startup de moda online. Ele é o mais velho da sala. E funciona. O filme mostra que recomeço não tem idade.
+>
+> **The Pursuit of Happyness**, com Will Smith, é baseado em história real. Um vendedor que perdeu tudo — casa, esposa, dinheiro — vai pra São Francisco com o filho pequeno, consegue um estágio não-remunerado numa corretora, e em um ano vira um dos maiores corretores de Wall Street. É o filme do 'não tem nada a perder'.
+>
+> **Julie & Julia** é mais leve: uma mulher entediada resolve passar um ano cozinhando todas as receitas de um livro, e transforma isso num blog que viraliza. O blog vira livro, o livro vira filme. É a carreira nascendo de um hobby.
+>
+> E **Silicon Valley**, série da HBO de 2014 a 2019, é a comédia da turma do Vale do Silício. Mas por baixo da piada, ela mostra muito bem a volatilidade de startup — demissões em massa, equity que vira pó, CEO que é demitido pelo próprio conselho. É a carreira sem fronteiras na vida real, com humor.
+>
+> O que esses cinco têm em comum? **A coragem de pivotar**. E aí vem a pergunta: será que esse espírito é pra todo mundo? É o que o último slide vai problematizar."
+
+---
+
+### 🟦 SLIDE 4 — "O outro lado: crítica e reflexão" (≈2 min)
+
+**BULLETS (projetor):**
+- **Sorry to Bother You (2018)** — Telemarketing, precarização, sindicalização
+- **Roma (2018)** — Cleo, a mobilidade zero da trabalhadora doméstica
+- **Que Horas Ela Volta? (2015)** — Brasil, duas mobilidades numa casa só
+- **Soul (2020, Pixar)** — Ser ou fazer? A carreira como sentido
+- **Ratatouille (2007)** — "Nem todo mundo pode ser grande, mas todo mundo pode ser genial"
+
+**O QUE FALAR:**
+
+> "Agora, a parte **desconfortável** da conversa. Cinco filmes que mostram o lado que ninguém quer ver.
+>
+> **Sorry to Bother You**, de 2018, é a crítica mais feroz dessa lista. Lakeith Stanfield trabalha de telemarketing, e quando descobre que os colegas estão sindicalizando, ele vira o vilão da empresa. O filme fala de precarização, de sindicato, de até onde a gente vai pra sobreviver. É o lado feio da tal 'flexibilidade'.
+>
+> **Roma**, do Alfonso Cuarón, é um filme mexicano que ganhou Oscar. Sem quase nenhuma fala, ele acompanha uma empregada doméstica — Cleo — que cuida da casa, lava a roupa, dá comida pros cachorros. E tem uma vida própria que ninguém enxerga. A pergunta que fica é: pra essa trabalhadora, onde está a mobilidade de carreira? **Mobilidade zero** — e isso não é escolha, é estrutura social.
+>
+> **Que Horas Ela Volta?**, de 2015, da Anna Muylaert, é o nosso filme brasileiro aqui. Jéssica fica anos cuidando da casa dos patrões em São Paulo, e quando a filha dela, Val, aparece pra fazer vestibular, as duas mobilidades se chocam. Val tem escolha, Jéssica tem dever. É a carreira sem fronteiras vista de baixo pra cima.
+>
+> **Soul**, da Pixar, é um desenho, mas é talvez a reflexão mais profunda da lista. Um pianista de jazz morre antes de fazer o grande show da vida dele, e aí ele precisa decidir: voltar e tocar, ou aceitar que talvez a carreira não seja o sentido da vida? O filme mostra que a 'faísca' não é talento — é o **gosto de estar vivo**.
+>
+> E pra fechar, **Ratatouille**, de 2007. Um rato que cozinha. A frase que o crítico Anton Ego fala no final do filme é talvez a melhor definição de carreira que eu já ouvi: *'Nem todo mundo pode ser grande, mas todo mundo pode ser genial na sua especialidade.'*
+>
+> A resposta curta é: a carreira sem fronteiras **não é pra todo mundo. Mas saber que ela existe já muda a forma como a gente olha pro próprio futuro.** Obrigado."
+
+---
+
+### 9.5.1. Tabela de referência — todos os 18 filmes
 
 | Conceito | Filme / Série | Cena ou gancho para usar |
 |---|---|---|
@@ -193,9 +297,9 @@ Filmes e séries são um atalho para colocar conceitos densos em imagens que a t
 | **Sair do script pré-determinado** | *O Show de Truman* (1998, Peter Weir) | Truman descobre que a vida inteira foi roteirizada. Símbolo de quem escolhe não seguir o plano traçado. |
 | **Sair de uma carreira estável** | *O Auto da Compadecida* (2000, Guel Arraes) | João Grilo e Chicó transitam entre golpes, fuga, sertão — mobilidade geográfica e funcional extrema. |
 
-### Vinheta de abertura sugerida (opcional, 1–2 min)
+### 9.5.2. Vinheta de abertura sugerida (opcional, 1–2 min antes do slide 1)
 
-> Antes de entrar nos slides 8–10, abre o bloco com uma **imagem estática de capa** e uma pergunta para a turma:
+> Antes de entrar no slide 1, abre o bloco com uma **imagem estática de capa** e uma pergunta para a turma:
 >
 > *"Vocês se veem trabalhando 10 anos na mesma empresa? 5 anos? 2 anos? E quem aqui já pensou em largar tudo e fazer algo completamente diferente? O Nomadland, o The Social Network e o Chef são três filmes que retratam isso de jeitos bem distintos. Hoje a gente vai falar de carreira sem fronteiras — a ideia de que a sua trajetória profissional não precisa caber dentro de uma empresa, um cargo ou um país."*
 
